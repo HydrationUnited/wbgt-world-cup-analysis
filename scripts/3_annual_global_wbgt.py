@@ -4,7 +4,7 @@
 WBGT here is the shaded form 0.7*Tw(Stull)+0.3*Ta from hourly 2t/2d/sp -- the exact quantity
 validated against Li et al. (2020) WBGT-ERA5-v2.0 (bias -0.06 C). Everything is from the hourly
 analysis stream (no monthly-mean products). Writes data/processed/annual_wbgt/wbgt_<year>.nc
-(global 2D). A PBS array over years builds the record; scripts/54 combines periods.
+(global 2D). A PBS array over years builds the record; scripts/4 combines periods.
 
 Usage:  3_annual_global_wbgt.py --year 1975
 """

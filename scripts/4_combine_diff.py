@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """Step 4: Combine per-year global WBGT fields into the change map: mean(1996-2025) - mean(1961-1990).
 
-Reads data/processed/annual_wbgt/wbgt_<year>.nc (from scripts/53, all hourly-derived), averages the
+Reads data/processed/annual_wbgt/wbgt_<year>.nc (from scripts/3, all hourly-derived), averages the
 two periods, differences them, masks ocean. -> data/processed/global_wbgt_diff.nc
 """
 import glob

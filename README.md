@@ -9,11 +9,14 @@ Code and data to reproduce the notebook `wbgt_vs_li2020_1979.ipynb`, which:
 ```
 wbgt_vs_li2020_1979.ipynb   notebook (set ROOT in the first code cell if you move this folder)
 src/heathack/               importable package: thermo, era5, era5_fc, config
-scripts/                    the pipeline that produced the data files
+scripts/                    the pipeline that produced the data files (+ the diurnal figure)
 config/project.yaml         paths and parameters (ERA5 lives on the GLADE campaign collection)
 data/raw/fifa/venues_all.csv          venue coordinates / cities / timezones
+data/raw/fifa/matches_2014.csv        2014 match schedule (kickoff times, venues)
 data/staging/li2020/wbgt_1979-*.nc    Li et al. 2020 WBGT-ERA5-v2.0, 1979 months
-data/processed/global_wbgt_diff.nc    global WBGT change field (from scripts/53 + combine)
+data/processed/global_wbgt_diff.nc    global WBGT change field (from scripts/3 + scripts/4)
+data/interim/hist/points_2014venues_*.parquet   per-venue hourly WBGT at the 2014 venues,
+                                      climatology years 1960–1990 plus 2014 (venue, time, WBGT)
 results/tables/venue_annual_wbgt.csv  per-venue annual WBGT timeseries
 ```
 
@@ -30,6 +33,13 @@ results/tables/venue_annual_wbgt.csv  per-venue annual WBGT timeseries
    its path.
 2. Run all cells. The notebook extracts ERA5 at the venue grid points for 1979, computes the WBGT
    variants, and reproduces the comparison and maps. First run takes a few minutes (ERA5 point reads).
+
+## Diurnal-cycle figure (standalone)
+`python scripts/5_clim_vs_matches_2014.py` writes
+`figures/03_climatology/diurnal_clim_vs_matches_2014.png`: for each 2014 venue, the 1960–1990 diurnal
+WBGT climatology (mean, 95% interval, full range) with the actual match hours overlaid (red where a
+match hour exceeded the local 95th percentile). It reads only the parquet/CSV files in this bundle,
+so it needs no ERA5 access.
 
 ## Data sources
 - ERA5 hourly surface analysis + forecast radiation: NSF NCAR/RDA ds633.0 (ECMWF ERA5),
