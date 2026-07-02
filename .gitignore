@@ -1,6 +1,5 @@
-# Large/generated data files
-data/staging/
-data/processed/
+# Generated outputs
+output/
 
 # Python
 __pycache__/
@@ -10,15 +9,14 @@ __pycache__/
 dist/
 build/
 *.egg
-
-# Jupyter checkpoints
-.ipynb_checkpoints/
-*.ipynb.bak
+.pytest_cache/
+.ruff_cache/
 
 # Environment
 .env
 .venv/
 env/
+uv.lock
 
 # OS
 .DS_Store

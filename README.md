@@ -1,55 +1,61 @@
-# Heathack — WBGT at FIFA World Cup venues (shareable bundle)
+# worldcupheat — sunlit WBGT at FIFA World Cup stadiums from ERA5
 
-Code and data to reproduce the notebook `wbgt_vs_li2020_1979.ipynb`, which:
-1. computes wet-bulb temperature and WBGT (shaded, simplified, and sunlit/Liljegren) from ERA5;
-2. compares the shaded WBGT against the published WBGT-ERA5-v2.0 product (Li, Yuan & Kopp 2020);
-3. maps the change in WBGT over land, mean(1996–2025) − mean(1961–1990), with per-city timeseries.
+Computes the hourly sunlit (Liljegren) wet-bulb globe temperature at every FIFA World Cup
+stadium (1950–2023) from ERA5, then derives per-stadium heat statistics and the WBGT during
+each match.
 
 ## Layout
 ```
-wbgt_vs_li2020_1979.ipynb   notebook (set ROOT in the first code cell if you move this folder)
-src/heathack/               importable package: thermo, era5, era5_fc, config
-scripts/                    the pipeline that produced the data files (+ the diurnal figure)
-config/project.yaml         paths and parameters (ERA5 lives on the GLADE campaign collection)
-data/raw/fifa/venues_all.csv          venue coordinates / cities / timezones
-data/raw/fifa/matches_2014.csv        2014 match schedule (kickoff times, venues)
-data/staging/li2020/wbgt_1979-*.nc    Li et al. 2020 WBGT-ERA5-v2.0, 1979 months
-data/processed/global_wbgt_diff.nc    global WBGT change field (from scripts/3 + scripts/4)
-data/interim/hist/points_2014venues_*.parquet   per-venue hourly WBGT at the 2014 venues,
-                                      climatology years 1960–1990 plus 2014 (venue, time, WBGT)
-results/tables/venue_annual_wbgt.csv  per-venue annual WBGT timeseries
+run.py                          workflow driver — ALL paths and parameters live here
+worldcupheat/                   importable package
+  era5.py                       xarray ERA5 readers (analysis vars + forecast-radiation de-accumulation)
+  wbgt.py                       numba physics: Liljegren WBGT, humidity, solar zenith
+  stats.py                      matches CSV handling, timezones, percentiles, per-match WBGT
+data/cleaned/world_cup_matches_1950-2023.csv    the ONLY input (1,258 matches, 216 stadiums)
+tests/test_wbgt.py              physics pinned to thermofeel 2.2.0 reference values
 ```
 
-## Requirements
-- Python 3.11+ with: xarray, numpy, pandas, netCDF4, dask, metpy, thermofeel, pvlib, cartopy,
-  statsmodels, matplotlib. (On NSF NCAR systems: the `npl` conda environment, plus
-  `pip install --user thermofeel pvlib`.)
-- Read access to ERA5 on GLADE: `/glade/campaign/collections/gdex/data/d633000` (ds633.0,
-  DOI 10.5065/BH6N-5N20). The notebook reads the hourly surface analysis and forecast radiation
-  from there; nothing needs to be downloaded.
+## Workflow (linear)
+1. **Extract + compute** (`run.py step1`): for each unique stadium grid cell, read ERA5 hourly
+   analysis (2t, 2d, sp, 10u, 10v) and de-accumulated forecast radiation (ssrd, fdir) with
+   xarray, compute sunlit WBGT (Liljegren 2008; numba-vectorised), and write one intermediate
+   CSV per stadium: `output/stadium_wbgt/{city}_{stadium}.csv` (columns
+   `stadium, city, time_utc, wbgt_c, grid_lat, grid_lon`). Re-runs skip existing files.
+2. **Statistics** (`run.py step2`): from the intermediates,
+   - `output/results/stadium_percentiles.csv` — 75th/90th/95th WBGT percentiles per stadium;
+   - `output/results/match_wbgt.csv` — WBGT at each match's kickoff hour (local kickoff
+     converted to UTC via timezone derived from stadium lat/lon).
 
-## Run
-1. Open `wbgt_vs_li2020_1979.ipynb`; if you moved this folder, set `ROOT` in the first code cell to
-   its path.
-2. Run all cells. The notebook extracts ERA5 at the venue grid points for 1979, computes the WBGT
-   variants, and reproduces the comparison and maps. First run takes a few minutes (ERA5 point reads).
+## Install & run
+Python 3.11 (numba compatibility). On NSF NCAR systems (Casper/Derecho):
+```bash
+module load conda && conda activate npl
+pip install --user -e .
+python run.py          # edit the CONFIG block in run.py first (ERA5 root, YEARS, MONTHS)
+```
+Locally (tests only — ERA5 lives on GLADE): `uv sync --group dev` or `pip install -e .`.
 
-## Diurnal-cycle figure (standalone)
-`python scripts/5_clim_vs_matches_2014.py` writes
-`figures/03_climatology/diurnal_clim_vs_matches_2014.png`: for each 2014 venue, the 1960–1990 diurnal
-WBGT climatology (mean, 95% interval, full range) with the actual match hours overlaid (red where a
-match hour exceeded the local 95th percentile). It reads only the parquet/CSV files in this bundle,
-so it needs no ERA5 access.
+Run step 1 on a compute node, not a login node: each ERA5 forecast-radiation file is
+decompressed whole (~2 GB peak).
 
-## Data sources
-- ERA5 hourly surface analysis + forecast radiation: NSF NCAR/RDA ds633.0 (ECMWF ERA5),
-  0.25°, 1940–present.
-- WBGT-ERA5-v2.0: Li, D., Yuan, J. & Kopp, R. E. (2020), *Environ. Res. Lett.* 15 064003,
-  doi:10.1088/1748-9326/ab7d04.
-- Venue coordinates and schedules: Wikipedia (per-venue source URLs are recorded during collection).
+## Data
+- ERA5 hourly surface analysis + forecast radiation: NSF NCAR/RDA ds633.0,
+  `/glade/campaign/collections/gdex/data/d633000` (DOI 10.5065/BH6N-5N20). Nothing downloaded.
+- Match schedule/venues: `data/cleaned/world_cup_matches_1950-2023.csv`
+  (`gender, country, city, stadium, year, date, time_local, lat, lon`). Matches before 1950
+  are out of scope by data design.
 
-## Methods, in brief
-WBGT is computed from ERA5 2 m temperature, 2 m dewpoint and surface pressure (wet-bulb via Stull
-2011; shaded WBGT = 0.7·Tw + 0.3·Ta), with an outdoor Liljegren variant that adds the solar/wind
-load using shortwave radiation and 10 m wind. The shaded form matches the external WBGT-ERA5-v2.0
-product to a mean bias near zero. All fields here are derived from the hourly ERA5 stream.
+## Methods & caveats
+- Sunlit WBGT = 0.7·Tnwb + 0.2·Tg + 0.1·Ta with globe and natural-wet-bulb temperatures solved
+  from the Liljegren et al. (2008) energy balance — a pure-numba port validated against
+  thermofeel 2.2.0 (max |Δ| < 0.1 K over a 2,000-point sweep; pinned in `tests/test_wbgt.py`).
+- Solar zenith from a low-precision Spencer (1971) solar-position formula (≲0.5°, ample here).
+- Kickoff timezones come from present-day IANA polygons (timezonefinder); pre-1970 local rules
+  can be off by up to ~1 h — acceptable at hourly resolution.
+- Percentiles cover exactly the `YEARS` × `MONTHS` scope configured in `run.py`.
+
+## Tests
+```bash
+uv run pytest       # physics reference values; no ERA5/GLADE access needed (runs in CI)
+uv run ruff check .
+```
