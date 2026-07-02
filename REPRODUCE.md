@@ -18,7 +18,7 @@ It reads the CSVs already in `data/` and writes its figure to `figures/`.
 ## Notebook 2 — `pergame_anomaly_summary.ipynb`
 | | |
 |---|---|
-| Figures | `figures/03_climatology/pergame_anomaly_summary_men_p75/90/95.png` and `..._women_left_p75/90/95.png` |
+| Figures | `figures/03_climatology/pergame_anomaly_bands_{men,women}.png`, `pergame_absolute_bands_{men,women}.png` |
 | Reads | `data/processed/pergame_anomaly_summary_men.csv`, `pergame_anomaly_summary_women.csv` |
 | Script that builds the data | `scripts/wc_09_anomaly_summary.py` |
 
