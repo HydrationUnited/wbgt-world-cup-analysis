@@ -1,0 +1,28 @@
+# Read the Docs configuration file.
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html
+version: 2
+
+build:
+  os: ubuntu-24.04
+  tools:
+    # 3.11 to match the project's numba constraint (see .python-version).
+    python: "3.11"
+
+sphinx:
+  configuration: docs/conf.py
+  # Fail the build on any warning (broken references, malformed RST, etc.).
+  fail_on_warning: true
+
+# Install the package with its `dev` extra so Sphinx is available and
+# `import worldcupheat` (used in docs/conf.py) resolves during the build.
+python:
+  install:
+    - method: pip
+      path: .
+      extra_requirements:
+        - dev
+
+# Build the HTML plus downloadable PDF and ePub outputs.
+formats:
+  - pdf
+  - epub
