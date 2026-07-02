@@ -7,6 +7,7 @@ turns those series into per-stadium percentiles and a nearest-hour WBGT for
 every match. NOTE: each forecast-radiation file is loaded whole (~2 GB peak),
 so run this on Casper / a compute node, not a login node.
 """
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 import numpy as np
@@ -44,14 +45,18 @@ def step1_stadium_series():
     cells = todo[["lat", "lon"]]
     print(f"step1: extracting {len(cells)} stadiums")
 
-    monthly = []
-    for yyyymm in era5.months_in_scope(YEARS, MONTHS):
+    def extract(yyyymm):                                    # I/O-bound: reads whole ERA5 files
         try:
-            monthly.append(era5.extract_month(ERA5_ROOT, yyyymm, cells))
+            ds = era5.extract_month(ERA5_ROOT, yyyymm, cells)
         except FileNotFoundError as e:
             print(f"step1: {yyyymm} not in archive, skipping ({e})")
-            continue
+            return None
         print(f"step1: extracted {yyyymm}")
+        return ds
+
+    with ThreadPoolExecutor(max_workers=16) as pool:        # threads: work drops the GIL, no pickling
+        monthly = [ds for ds in pool.map(extract, era5.months_in_scope(YEARS, MONTHS))
+                   if ds is not None]
     if not monthly:
         raise RuntimeError("step1: no ERA5 months could be extracted")
     ds = xr.concat(monthly, dim="time").sortby("time")
