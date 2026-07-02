@@ -1,0 +1,11 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+2010,South Africa,Soccer City (FNB Stadium),Johannesburg,South Africa,-26.23472,27.98222,Africa/Johannesburg,UTC+2,1753,84490,True,https://en.wikipedia.org/wiki/Soccer_City
+2010,South Africa,Ellis Park Stadium,Johannesburg,South Africa,-26.1975,28.06083,Africa/Johannesburg,UTC+2,1750,55686,True,https://en.wikipedia.org/wiki/Ellis_Park_Stadium
+2010,South Africa,Cape Town Stadium (Green Point),Cape Town,South Africa,-33.90333,18.41111,Africa/Johannesburg,UTC+2,5,64100,True,https://en.wikipedia.org/wiki/Cape_Town_Stadium
+2010,South Africa,Moses Mabhida Stadium,Durban,South Africa,-29.829,31.0303,Africa/Johannesburg,UTC+2,10,62760,True,https://en.wikipedia.org/wiki/Moses_Mabhida_Stadium
+2010,South Africa,Loftus Versfeld Stadium,Pretoria,South Africa,-25.75333,28.22278,Africa/Johannesburg,UTC+2,1350,42858,True,https://en.wikipedia.org/wiki/Loftus_Versfeld_Stadium
+2010,South Africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,-33.93778,25.59889,Africa/Johannesburg,UTC+2,12,42486,True,https://en.wikipedia.org/wiki/Nelson_Mandela_Bay_Stadium
+2010,South Africa,Royal Bafokeng Stadium,Rustenburg,South Africa,-25.5786,27.1607,Africa/Johannesburg,UTC+2,1250,42000,True,https://en.wikipedia.org/wiki/Royal_Bafokeng_Stadium
+2010,South Africa,Peter Mokaba Stadium,Polokwane,South Africa,-23.924689,29.468765,Africa/Johannesburg,UTC+2,1310,41733,True,https://en.wikipedia.org/wiki/Peter_Mokaba_Stadium
+2010,South Africa,Mbombela Stadium,Nelspruit,South Africa,-25.461,30.929,Africa/Johannesburg,UTC+2,679,40929,True,https://en.wikipedia.org/wiki/Mbombela_Stadium
+2010,South Africa,Free State Stadium,Bloemfontein,South Africa,-29.11722,26.20889,Africa/Johannesburg,UTC+2,1395,40911,True,https://en.wikipedia.org/wiki/Free_State_Stadium

@@ -1,0 +1,13 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,source_url
+2018,Russia,Luzhniki Stadium,Moscow,Russia,55.71583,37.55361,Europe/Moscow,UTC+3,,78011,https://en.wikipedia.org/wiki/Luzhniki_Stadium
+2018,Russia,Otkritie Arena,Moscow,Russia,55.81786,37.44025,Europe/Moscow,UTC+3,,44190,https://en.wikipedia.org/wiki/Otkritie_Arena
+2018,Russia,Saint Petersburg Stadium,Saint Petersburg,Russia,59.973,30.2205,Europe/Moscow,UTC+3,,64468,https://en.wikipedia.org/wiki/Krestovsky_Stadium
+2018,Russia,Fisht Olympic Stadium,Sochi,Russia,43.40227,39.95611,Europe/Moscow,UTC+3,,44287,https://en.wikipedia.org/wiki/Fisht_Olympic_Stadium
+2018,Russia,Kaliningrad Stadium,Kaliningrad,Russia,54.69806,20.53389,Europe/Kaliningrad,UTC+2,,33973,https://en.wikipedia.org/wiki/Kaliningrad_Stadium
+2018,Russia,Kazan Arena,Kazan,Russia,55.82111,49.16083,Europe/Moscow,UTC+3,,42873,https://en.wikipedia.org/wiki/Kazan_Arena
+2018,Russia,Nizhny Novgorod Stadium,Nizhny Novgorod,Russia,56.3375,43.96333,Europe/Moscow,UTC+3,,43319,https://en.wikipedia.org/wiki/Nizhny_Novgorod_Stadium
+2018,Russia,Samara Arena,Samara,Russia,53.27778,50.23722,Europe/Samara,UTC+4,,41970,https://en.wikipedia.org/wiki/Samara_Arena
+2018,Russia,Mordovia Arena,Saransk,Russia,54.18278,45.20139,Europe/Moscow,UTC+3,,41685,https://en.wikipedia.org/wiki/Mordovia_Arena
+2018,Russia,Rostov Arena,Rostov-on-Don,Russia,47.20944,39.73778,Europe/Moscow,UTC+3,,43472,https://en.wikipedia.org/wiki/Rostov_Arena
+2018,Russia,Volgograd Arena,Volgograd,Russia,48.73444,44.54861,Europe/Volgograd,UTC+3,,43713,https://en.wikipedia.org/wiki/Volgograd_Arena
+2018,Russia,Yekaterinburg Arena,Yekaterinburg,Russia,56.8325,60.57361,Asia/Yekaterinburg,UTC+5,,35696,https://en.wikipedia.org/wiki/Central_Stadium_(Yekaterinburg)

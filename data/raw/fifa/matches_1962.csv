@@ -1,0 +1,33 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+1962,Group 1,1962-05-30,15:00,Estadio Carlos Dittborn,Arica,Uruguay,Colombia,2,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_1
+1962,Group 1,1962-05-31,15:00,Estadio Carlos Dittborn,Arica,Soviet Union,Yugoslavia,2,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_1
+1962,Group 1,1962-06-02,15:00,Estadio Carlos Dittborn,Arica,Yugoslavia,Uruguay,3,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_1
+1962,Group 1,1962-06-03,15:00,Estadio Carlos Dittborn,Arica,Soviet Union,Colombia,4,4,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_1
+1962,Group 1,1962-06-06,15:00,Estadio Carlos Dittborn,Arica,Soviet Union,Uruguay,2,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_1
+1962,Group 1,1962-06-07,15:00,Estadio Carlos Dittborn,Arica,Yugoslavia,Colombia,5,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_1
+1962,Group 2,1962-05-30,15:00,Estadio Nacional,Santiago,Chile,Switzerland,3,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_2
+1962,Group 2,1962-05-31,15:00,Estadio Nacional,Santiago,West Germany,Italy,0,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_2
+1962,Group 2,1962-06-02,15:00,Estadio Nacional,Santiago,Chile,Italy,2,0,,2.0,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_2
+1962,Group 2,1962-06-03,15:00,Estadio Nacional,Santiago,West Germany,Switzerland,2,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_2
+1962,Group 2,1962-06-06,15:00,Estadio Nacional,Santiago,West Germany,Chile,2,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_2
+1962,Group 2,1962-06-07,15:00,Estadio Nacional,Santiago,Italy,Switzerland,3,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_2
+1962,Group 3,1962-05-30,15:00,Estadio Sausalito,Vina del Mar,Brazil,Mexico,2,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_3
+1962,Group 3,1962-05-31,15:00,Estadio Sausalito,Vina del Mar,Czechoslovakia,Spain,1,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_3
+1962,Group 3,1962-06-02,15:00,Estadio Sausalito,Vina del Mar,Brazil,Czechoslovakia,0,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_3
+1962,Group 3,1962-06-03,15:00,Estadio Sausalito,Vina del Mar,Spain,Mexico,1,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_3
+1962,Group 3,1962-06-06,15:00,Estadio Sausalito,Vina del Mar,Brazil,Spain,2,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_3
+1962,Group 3,1962-06-07,15:00,Estadio Sausalito,Vina del Mar,Mexico,Czechoslovakia,3,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_3
+1962,Group 4,1962-05-30,15:00,Estadio Braden Copper Co. (El Teniente),Rancagua,Argentina,Bulgaria,1,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_4
+1962,Group 4,1962-05-31,15:00,Estadio Braden Copper Co. (El Teniente),Rancagua,Hungary,England,2,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_4
+1962,Group 4,1962-06-02,15:00,Estadio Braden Copper Co. (El Teniente),Rancagua,England,Argentina,3,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_4
+1962,Group 4,1962-06-03,15:00,Estadio Braden Copper Co. (El Teniente),Rancagua,Hungary,Bulgaria,6,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_4
+1962,Group 4,1962-06-06,15:00,Estadio Braden Copper Co. (El Teniente),Rancagua,Hungary,Argentina,0,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_4
+1962,Group 4,1962-06-07,15:00,Estadio Braden Copper Co. (El Teniente),Rancagua,England,Bulgaria,0,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_Group_4
+1962,Quarter-final,1962-06-10,14:30,Estadio Carlos Dittborn,Arica,Chile,Soviet Union,2,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_knockout_stage
+1962,Quarter-final,1962-06-10,14:30,Estadio Braden Copper Co. (El Teniente),Rancagua,Czechoslovakia,Hungary,1,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_knockout_stage
+1962,Quarter-final,1962-06-10,14:30,Estadio Sausalito,Vina del Mar,Brazil,England,3,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_knockout_stage
+1962,Quarter-final,1962-06-10,14:30,Estadio Nacional,Santiago,Yugoslavia,West Germany,1,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_knockout_stage
+1962,Semi-final,1962-06-13,14:30,Estadio Nacional,Santiago,Brazil,Chile,4,2,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_knockout_stage
+1962,Semi-final,1962-06-13,14:30,Estadio Sausalito,Vina del Mar,Czechoslovakia,Yugoslavia,3,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_knockout_stage
+1962,Third place play-off,1962-06-16,14:30,Estadio Nacional,Santiago,Chile,Yugoslavia,1,0,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_knockout_stage
+1962,Final,1962-06-17,14:30,Estadio Nacional,Santiago,Brazil,Czechoslovakia,3,1,,,https://en.wikipedia.org/wiki/1962_FIFA_World_Cup_knockout_stage

@@ -1,0 +1,13 @@
+year,host,stadium,city,country,lat,lon,elevation_m,capacity,timezone,utc_offset_during_cup,source_url
+2014,Brazil,Estádio do Maracanã,Rio de Janeiro,Brazil,-22.912167,-43.230164,9,74738,America/Sao_Paulo,UTC-3,https://en.wikipedia.org/wiki/Maracan%C3%A3_Stadium
+2014,Brazil,Estádio Nacional Mané Garrincha,Brasília,Brazil,-15.783611,-47.899167,1100,69432,America/Sao_Paulo,UTC-3,https://en.wikipedia.org/wiki/Est%C3%A1dio_Nacional_Man%C3%A9_Garrincha
+2014,Brazil,Arena Corinthians (Arena de São Paulo),São Paulo,Brazil,-23.545278,-46.474167,770,63321,America/Sao_Paulo,UTC-3,https://en.wikipedia.org/wiki/Neo_Qu%C3%ADmica_Arena
+2014,Brazil,Estádio Castelão,Fortaleza,Brazil,-3.807222,-38.5225,20,60348,America/Fortaleza,UTC-3,https://en.wikipedia.org/wiki/Castel%C3%A3o_(Cear%C3%A1)
+2014,Brazil,Estádio Mineirão,Belo Horizonte,Brazil,-19.865833,-43.970833,800,58259,America/Sao_Paulo,UTC-3,https://en.wikipedia.org/wiki/Mineir%C3%A3o
+2014,Brazil,Arena Fonte Nova (Itaipava Arena Fonte Nova),Salvador,Brazil,-12.978611,-38.504167,8,51708,America/Bahia,UTC-3,https://en.wikipedia.org/wiki/Arena_Fonte_Nova
+2014,Brazil,Estádio Beira-Rio,Porto Alegre,Brazil,-30.065556,-51.236111,8,43394,America/Sao_Paulo,UTC-3,https://en.wikipedia.org/wiki/Est%C3%A1dio_Beira-Rio
+2014,Brazil,Arena Pernambuco (Itaipava Arena Pernambuco),Recife (São Lourenço da Mata),Brazil,-8.040556,-35.008333,40,42583,America/Recife,UTC-3,https://en.wikipedia.org/wiki/Arena_Pernambuco
+2014,Brazil,Arena Pantanal,Cuiabá,Brazil,-15.603889,-56.121667,180,41112,America/Cuiaba,UTC-4,https://pt.wikipedia.org/wiki/Arena_Pantanal
+2014,Brazil,Arena da Amazônia,Manaus,Brazil,-3.083056,-60.028056,40,40549,America/Manaus,UTC-4,https://en.wikipedia.org/wiki/Arena_da_Amaz%C3%B4nia
+2014,Brazil,Arena das Dunas,Natal,Brazil,-5.8269,-35.2124,40,39971,America/Fortaleza,UTC-3,https://en.wikipedia.org/wiki/Arena_das_Dunas
+2014,Brazil,Arena da Baixada (Estádio Joaquim Américo Guimarães),Curitiba,Brazil,-25.448333,-49.276944,910,39631,America/Sao_Paulo,UTC-3,https://en.wikipedia.org/wiki/Arena_da_Baixada

@@ -1,0 +1,7 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+1978,Argentina,Estadio Monumental,Buenos Aires,Argentina,-34.54528,-58.44972,America/Argentina/Buenos_Aires,UTC-3,15,74624,True,https://en.wikipedia.org/wiki/Estadio_Monumental_(Buenos_Aires)
+1978,Argentina,Estadio Jose Amalfitani,Buenos Aires,Argentina,-34.635375,-58.520711,America/Argentina/Buenos_Aires,UTC-3,31,49318,True,https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Amalfitani
+1978,Argentina,Estadio Mario Alberto Kempes,Cordoba,Argentina,-31.368956,-64.246244,America/Argentina/Cordoba,UTC-3,425,46986,True,https://en.wikipedia.org/wiki/Estadio_Mario_Alberto_Kempes
+1978,Argentina,Estadio Jose Maria Minella,Mar del Plata,Argentina,-38.017944,-57.582333,America/Argentina/Buenos_Aires,UTC-3,30,43542,True,https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Mar%C3%ADa_Minella
+1978,Argentina,Estadio Gigante de Arroyito,Rosario,Argentina,-32.913997,-60.674567,America/Argentina/Cordoba,UTC-3,21,45645,True,https://en.wikipedia.org/wiki/Estadio_Gigante_de_Arroyito
+1978,Argentina,Estadio Malvinas Argentinas,Mendoza,Argentina,-32.88972,-68.88,America/Argentina/Mendoza,UTC-3,848,34954,True,https://en.wikipedia.org/wiki/Estadio_Malvinas_Argentinas

@@ -1,0 +1,53 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+1990,Group A,1990-06-09,21:00,Stadio Olimpico,Rome,Italy,Austria,1,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_A
+1990,Group A,1990-06-10,17:00,Stadio Comunale,Florence,United States,Czechoslovakia,1,5,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_A
+1990,Group A,1990-06-14,21:00,Stadio Olimpico,Rome,Italy,United States,1,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_A
+1990,Group A,1990-06-15,17:00,Stadio Comunale,Florence,Austria,Czechoslovakia,0,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_A
+1990,Group A,1990-06-19,21:00,Stadio Olimpico,Rome,Italy,Czechoslovakia,2,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_A
+1990,Group A,1990-06-19,21:00,Stadio Comunale,Florence,Austria,United States,2,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_A
+1990,Group B,1990-06-08,18:00,San Siro,Milan,Argentina,Cameroon,0,1,,2.0,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_B
+1990,Group B,1990-06-09,17:00,Stadio San Nicola,Bari,Soviet Union,Romania,0,2,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_B
+1990,Group B,1990-06-13,21:00,Stadio San Paolo,Naples,Argentina,Soviet Union,2,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_B
+1990,Group B,1990-06-14,17:00,Stadio San Nicola,Bari,Cameroon,Romania,2,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_B
+1990,Group B,1990-06-18,21:00,Stadio San Paolo,Naples,Argentina,Romania,1,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_B
+1990,Group B,1990-06-18,21:00,Stadio San Nicola,Bari,Cameroon,Soviet Union,0,4,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_B
+1990,Group C,1990-06-10,21:00,Stadio delle Alpi,Turin,Brazil,Sweden,2,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_C
+1990,Group C,1990-06-11,17:00,Stadio Luigi Ferraris,Genoa,Costa Rica,Scotland,1,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_C
+1990,Group C,1990-06-16,17:00,Stadio delle Alpi,Turin,Brazil,Costa Rica,1,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_C
+1990,Group C,1990-06-16,21:00,Stadio Luigi Ferraris,Genoa,Sweden,Scotland,1,2,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_C
+1990,Group C,1990-06-20,21:00,Stadio delle Alpi,Turin,Brazil,Scotland,1,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_C
+1990,Group C,1990-06-20,21:00,Stadio Luigi Ferraris,Genoa,Sweden,Costa Rica,1,2,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_C
+1990,Group D,1990-06-09,17:00,Stadio Renato Dall'Ara,Bologna,United Arab Emirates,Colombia,0,2,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_D
+1990,Group D,1990-06-10,21:00,San Siro,Milan,West Germany,Yugoslavia,4,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_D
+1990,Group D,1990-06-14,17:00,Stadio Renato Dall'Ara,Bologna,Yugoslavia,Colombia,1,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_D
+1990,Group D,1990-06-15,21:00,San Siro,Milan,West Germany,United Arab Emirates,5,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_D
+1990,Group D,1990-06-19,17:00,San Siro,Milan,West Germany,Colombia,1,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_D
+1990,Group D,1990-06-19,17:00,Stadio Renato Dall'Ara,Bologna,Yugoslavia,United Arab Emirates,4,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_D
+1990,Group E,1990-06-12,17:00,Stadio Marc'Antonio Bentegodi,Verona,Belgium,South Korea,2,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_E
+1990,Group E,1990-06-13,17:00,Stadio Friuli,Udine,Uruguay,Spain,0,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_E
+1990,Group E,1990-06-17,21:00,Stadio Marc'Antonio Bentegodi,Verona,Belgium,Uruguay,3,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_E
+1990,Group E,1990-06-17,21:00,Stadio Friuli,Udine,South Korea,Spain,1,3,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_E
+1990,Group E,1990-06-21,17:00,Stadio Marc'Antonio Bentegodi,Verona,Belgium,Spain,1,2,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_E
+1990,Group E,1990-06-21,17:00,Stadio Friuli,Udine,South Korea,Uruguay,0,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_E
+1990,Group F,1990-06-11,21:00,Stadio Sant'Elia,Cagliari,England,Republic of Ireland,1,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_F
+1990,Group F,1990-06-12,21:00,Stadio La Favorita,Palermo,Netherlands,Egypt,1,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_F
+1990,Group F,1990-06-16,21:00,Stadio Sant'Elia,Cagliari,England,Netherlands,0,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_F
+1990,Group F,1990-06-17,17:00,Stadio La Favorita,Palermo,Republic of Ireland,Egypt,0,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_F
+1990,Group F,1990-06-21,21:00,Stadio Sant'Elia,Cagliari,England,Egypt,1,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_F
+1990,Group F,1990-06-21,21:00,Stadio La Favorita,Palermo,Republic of Ireland,Netherlands,1,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_F
+1990,Round of 16,1990-06-23,17:00,Stadio San Paolo,Naples,Cameroon,Colombia,2,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Round of 16,1990-06-23,21:00,Stadio San Nicola,Bari,Czechoslovakia,Costa Rica,4,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Round of 16,1990-06-24,17:00,Stadio delle Alpi,Turin,Brazil,Argentina,0,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Round of 16,1990-06-24,21:00,San Siro,Milan,West Germany,Netherlands,2,1,,2.0,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Round of 16,1990-06-25,17:00,Stadio Luigi Ferraris,Genoa,Republic of Ireland,Romania,0,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Round of 16,1990-06-25,21:00,Stadio Olimpico,Rome,Italy,Uruguay,2,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Round of 16,1990-06-26,17:00,Stadio Marc'Antonio Bentegodi,Verona,Spain,Yugoslavia,1,2,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Round of 16,1990-06-26,21:00,Stadio Renato Dall'Ara,Bologna,England,Belgium,1,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Quarter-final,1990-06-30,17:00,Stadio Comunale,Florence,Argentina,Yugoslavia,0,0,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Quarter-final,1990-06-30,21:00,Stadio Olimpico,Rome,Republic of Ireland,Italy,0,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Quarter-final,1990-07-01,17:00,San Siro,Milan,Czechoslovakia,West Germany,0,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Quarter-final,1990-07-01,21:00,Stadio San Paolo,Naples,Cameroon,England,2,3,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Semi-final,1990-07-03,20:00,Stadio San Paolo,Naples,Argentina,Italy,1,1,,1.0,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Semi-final,1990-07-04,20:00,Stadio delle Alpi,Turin,West Germany,England,1,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Third place play-off,1990-07-07,20:00,Stadio San Nicola,Bari,Italy,England,2,1,,,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_knockout_stage
+1990,Final,1990-07-08,20:00,Stadio Olimpico,Rome,West Germany,Argentina,1,0,,2.0,https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_final

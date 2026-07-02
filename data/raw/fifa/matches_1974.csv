@@ -1,0 +1,39 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,red_cards,yellow_cards,source_url
+1974,Group 1,1974-06-14,16:00,Olympiastadion,West Berlin,West Germany,Chile,1,0,1.0,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 1,1974-06-14,19:30,Volksparkstadion,Hamburg,East Germany,Australia,2,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 1,1974-06-18,16:00,Volksparkstadion,Hamburg,Australia,West Germany,0,3,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 1,1974-06-18,19:30,Olympiastadion,West Berlin,Chile,East Germany,1,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 1,1974-06-22,16:00,Olympiastadion,West Berlin,Australia,Chile,0,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 1,1974-06-22,19:30,Volksparkstadion,Hamburg,East Germany,West Germany,1,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 2,1974-06-13,17:00,Waldstadion,Frankfurt,Brazil,Yugoslavia,0,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 2,1974-06-14,19:30,Westfalenstadion,Dortmund,Zaire,Scotland,0,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 2,1974-06-18,19:30,Parkstadion,Gelsenkirchen,Yugoslavia,Zaire,9,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 2,1974-06-18,19:30,Waldstadion,Frankfurt,Scotland,Brazil,0,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 2,1974-06-22,16:00,Waldstadion,Frankfurt,Scotland,Yugoslavia,1,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 2,1974-06-22,16:00,Parkstadion,Gelsenkirchen,Zaire,Brazil,0,3,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 3,1974-06-15,16:00,Niedersachsenstadion,Hanover,Uruguay,Netherlands,0,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 3,1974-06-15,16:00,Rheinstadion,Düsseldorf,Sweden,Bulgaria,0,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 3,1974-06-19,19:30,Niedersachsenstadion,Hanover,Bulgaria,Uruguay,1,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 3,1974-06-19,19:30,Westfalenstadion,Dortmund,Netherlands,Sweden,0,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 3,1974-06-23,16:00,Westfalenstadion,Dortmund,Bulgaria,Netherlands,1,4,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 3,1974-06-23,16:00,Neckarstadion,Stuttgart,Sweden,Uruguay,3,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 4,1974-06-15,19:30,Neckarstadion,Stuttgart,Italy,Haiti,3,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 4,1974-06-15,19:30,Rheinstadion,Düsseldorf,Poland,Argentina,3,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 4,1974-06-19,16:00,Parkstadion,Gelsenkirchen,Haiti,Poland,0,7,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 4,1974-06-19,16:00,Westfalenstadion,Dortmund,Argentina,Italy,1,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 4,1974-06-23,19:30,Niedersachsenstadion,Hanover,Argentina,Poland,1,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Group 4,1974-06-23,19:30,Neckarstadion,Stuttgart,Haiti,Italy,1,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup
+1974,Second Round Group A,1974-06-26,19:30,Parkstadion,Gelsenkirchen,Netherlands,Argentina,4,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_A
+1974,Second Round Group A,1974-06-26,19:30,Niedersachsenstadion,Hanover,Brazil,East Germany,1,0,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_A
+1974,Second Round Group A,1974-06-30,16:00,Niedersachsenstadion,Hanover,Argentina,Brazil,1,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_A
+1974,Second Round Group A,1974-06-30,16:00,Parkstadion,Gelsenkirchen,East Germany,Netherlands,0,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_A
+1974,Second Round Group A,1974-07-03,19:30,Parkstadion,Gelsenkirchen,Argentina,East Germany,1,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_A
+1974,Second Round Group A,1974-07-03,19:30,Westfalenstadion,Dortmund,Netherlands,Brazil,2,0,1.0,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_A
+1974,Second Round Group B,1974-06-26,16:00,Rheinstadion,Düsseldorf,Yugoslavia,West Germany,0,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_B
+1974,Second Round Group B,1974-06-26,19:30,Neckarstadion,Stuttgart,Sweden,Poland,0,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_B
+1974,Second Round Group B,1974-06-30,16:00,Waldstadion,Frankfurt,Poland,Yugoslavia,2,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_B
+1974,Second Round Group B,1974-06-30,19:30,Rheinstadion,Düsseldorf,West Germany,Sweden,4,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_B
+1974,Second Round Group B,1974-07-03,16:35,Waldstadion,Frankfurt,Poland,West Germany,0,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_B
+1974,Second Round Group B,1974-07-03,19:30,Rheinstadion,Düsseldorf,Sweden,Yugoslavia,2,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_Group_B
+1974,Third place play-off,1974-07-06,16:00,Olympiastadion,Munich,Brazil,Poland,0,1,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_knockout_stage
+1974,Final,1974-07-07,16:00,Olympiastadion,Munich,Netherlands,West Germany,1,2,,,https://en.wikipedia.org/wiki/1974_FIFA_World_Cup_knockout_stage

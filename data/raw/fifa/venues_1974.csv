@@ -1,0 +1,10 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+1974,West Germany,Olympiastadion,West Berlin,West Germany,52.514722,13.239444,Europe/Berlin,UTC+1,45,86000,True,https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)
+1974,West Germany,Olympiastadion,Munich,West Germany,48.17306,11.54667,Europe/Berlin,UTC+1,520,77573,True,https://en.wikipedia.org/wiki/Olympiastadion_(Munich)
+1974,West Germany,Neckarstadion,Stuttgart,West Germany,48.79222,9.23194,Europe/Berlin,UTC+1,215,72200,True,https://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Stuttgart)
+1974,West Germany,Parkstadion,Gelsenkirchen,West Germany,51.55917,7.06667,Europe/Berlin,UTC+1,50,72000,False,https://en.wikipedia.org/wiki/Parkstadion
+1974,West Germany,Rheinstadion,Düsseldorf,West Germany,51.26028,6.73417,Europe/Berlin,UTC+1,38,70100,False,https://en.wikipedia.org/wiki/Rheinstadion
+1974,West Germany,Waldstadion,Frankfurt,West Germany,50.068056,8.645806,Europe/Berlin,UTC+1,100,62200,True,https://en.wikipedia.org/wiki/Deutsche_Bank_Park
+1974,West Germany,Volksparkstadion,Hamburg,West Germany,53.58722,9.89861,Europe/Berlin,UTC+1,27,61300,True,https://en.wikipedia.org/wiki/Volksparkstadion
+1974,West Germany,Niedersachsenstadion,Hanover,West Germany,52.36,9.73111,Europe/Berlin,UTC+1,53,60400,True,https://en.wikipedia.org/wiki/Niedersachsenstadion
+1974,West Germany,Westfalenstadion,Dortmund,West Germany,51.4925,7.45167,Europe/Berlin,UTC+1,86,53600,True,https://en.wikipedia.org/wiki/Westfalenstadion

@@ -1,0 +1,27 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+1954,Group 1,1954-06-16,18:00,Stade des Charmilles,Geneva,Brazil,Mexico,5,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_1
+1954,Group 1,1954-06-16,18:00,Stade Olympique de la Pontaise,Lausanne,Yugoslavia,France,1,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_1
+1954,Group 1,1954-06-19,17:00,Stade Olympique de la Pontaise,Lausanne,Brazil,Yugoslavia,1,1,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_1
+1954,Group 1,1954-06-19,17:10,Stade des Charmilles,Geneva,France,Mexico,3,2,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_1
+1954,Group 2,1954-06-17,18:00,Wankdorf Stadium,Bern,West Germany,Turkey,4,1,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_2
+1954,Group 2,1954-06-17,18:00,Hardturm,Zurich,Hungary,South Korea,9,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_2
+1954,Group 2,1954-06-20,16:50,St. Jakob Stadium,Basel,Hungary,West Germany,8,3,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_2
+1954,Group 2,1954-06-20,17:00,Stade des Charmilles,Geneva,Turkey,South Korea,7,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_2
+1954,Group 2 play-off,1954-06-23,18:00,Hardturm,Zurich,West Germany,Turkey,7,2,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_2
+1954,Group 3,1954-06-16,18:00,Wankdorf Stadium,Bern,Uruguay,Czechoslovakia,2,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_3
+1954,Group 3,1954-06-16,18:00,Hardturm,Zurich,Austria,Scotland,1,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_3
+1954,Group 3,1954-06-19,16:50,St. Jakob Stadium,Basel,Uruguay,Scotland,7,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_3
+1954,Group 3,1954-06-19,17:00,Hardturm,Zurich,Austria,Czechoslovakia,5,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_3
+1954,Group 4,1954-06-17,17:50,Stade Olympique de la Pontaise,Lausanne,Switzerland,Italy,2,1,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_4
+1954,Group 4,1954-06-17,18:10,St. Jakob Stadium,Basel,England,Belgium,4,4,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_4
+1954,Group 4,1954-06-20,17:00,Stadio di Cornaredo,Lugano,Italy,Belgium,4,1,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_4
+1954,Group 4,1954-06-20,17:10,Wankdorf Stadium,Bern,England,Switzerland,2,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_4
+1954,Group 4 play-off,1954-06-23,18:00,St. Jakob Stadium,Basel,Switzerland,Italy,4,1,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_Group_4
+1954,Quarter-final,1954-06-26,17:00,Stade Olympique de la Pontaise,Lausanne,Austria,Switzerland,7,5,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_knockout_stage
+1954,Quarter-final,1954-06-26,17:00,St. Jakob Stadium,Basel,Uruguay,England,4,2,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_knockout_stage
+1954,Quarter-final,1954-06-27,17:00,Stade des Charmilles,Geneva,West Germany,Yugoslavia,2,0,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_knockout_stage
+1954,Quarter-final,1954-06-27,17:00,Wankdorf Stadium,Bern,Hungary,Brazil,4,2,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_knockout_stage
+1954,Semi-final,1954-06-30,18:00,St. Jakob Stadium,Basel,West Germany,Austria,6,1,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_knockout_stage
+1954,Semi-final,1954-06-30,18:00,Stade Olympique de la Pontaise,Lausanne,Hungary,Uruguay,4,2,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_knockout_stage
+1954,Third place play-off,1954-07-03,17:00,Hardturm,Zurich,Austria,Uruguay,3,1,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_knockout_stage
+1954,Final,1954-07-04,17:00,Wankdorf Stadium,Bern,West Germany,Hungary,3,2,,,https://en.wikipedia.org/wiki/1954_FIFA_World_Cup_knockout_stage

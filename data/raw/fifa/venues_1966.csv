@@ -1,0 +1,9 @@
+year,host,stadium,city,country,lat,lon,elevation_m,capacity,still_exists,timezone,utc_offset_during_cup,source_url
+1966,England,Wembley Stadium,London,England,51.55556,-0.27972,47,98600,False,Europe/London,UTC+1,https://en.wikipedia.org/wiki/Wembley_Stadium_(1923)
+1966,England,White City Stadium,London,England,51.5136,-0.2274,9,76567,False,Europe/London,UTC+1,https://en.wikipedia.org/wiki/White_City_Stadium
+1966,England,Old Trafford,Manchester,England,53.463056,-2.291389,18,58000,True,Europe/London,UTC+1,https://en.wikipedia.org/wiki/Old_Trafford
+1966,England,Villa Park,Birmingham,England,52.509167,-1.884722,101,52000,True,Europe/London,UTC+1,https://en.wikipedia.org/wiki/Villa_Park
+1966,England,Goodison Park,Liverpool,England,53.438889,-2.966389,46,50151,True,Europe/London,UTC+1,https://en.wikipedia.org/wiki/Goodison_Park
+1966,England,Hillsborough Stadium,Sheffield,England,53.411389,-1.50056,69,42730,True,Europe/London,UTC+1,https://en.wikipedia.org/wiki/Hillsborough_Stadium
+1966,England,Roker Park,Sunderland,England,54.9213,-1.375481,25,40310,False,Europe/London,UTC+1,https://en.wikipedia.org/wiki/Roker_Park
+1966,England,Ayresome Park,Middlesbrough,England,54.56417,-1.24694,9,40000,False,Europe/London,UTC+1,https://en.wikipedia.org/wiki/Ayresome_Park

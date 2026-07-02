@@ -1,0 +1,11 @@
+year,host,stadium,city,country,lat,lon,elevation_m,capacity,timezone,utc_offset_during_cup,still_exists,source_url
+1998,France,Stade de France,Saint-Denis (Paris),France,48.9245,2.3602,33,80000,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Stade_de_France
+1998,France,Stade Velodrome,Marseille,France,43.26972,5.39583,11,60000,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Stade_V%C3%A9lodrome
+1998,France,Parc des Princes,Paris,France,48.84139,2.25306,38,48875,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Parc_des_Princes
+1998,France,Stade de Gerland,Lyon,France,45.72389,4.83222,168,44000,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Stade_de_Gerland
+1998,France,Stade Felix-Bollaert (now Stade Bollaert-Delelis),Lens,France,50.43278,2.815,42,41300,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Stade_Bollaert-Delelis
+1998,France,Stade de la Beaujoire,Nantes,France,47.256,-1.525,8,39500,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Stade_de_la_Beaujoire
+1998,France,Stadium Municipal (now Stadium de Toulouse),Toulouse,France,43.58306,1.43417,141,37000,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Stadium_de_Toulouse
+1998,France,Stade Geoffroy-Guichard,Saint-Etienne,France,45.46083,4.39028,500,36000,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Stade_Geoffroy-Guichard
+1998,France,Parc Lescure (now Stade Chaban-Delmas),Bordeaux,France,44.82917,-0.59778,7,35200,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Stade_Chaban-Delmas
+1998,France,Stade de la Mosson,Montpellier,France,43.62222,3.81194,45,34000,Europe/Paris,UTC+2,True,https://en.wikipedia.org/wiki/Stade_de_la_Mosson

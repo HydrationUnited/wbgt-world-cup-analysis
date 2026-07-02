@@ -1,0 +1,13 @@
+year,host,stadium,city,country,lat,lon,elevation_m,capacity,timezone,utc_offset_during_cup,still_exists,source_url
+1958,Sweden,Råsunda Stadium,Solna (Stockholm area),Sweden,59.36278,17.99639,15,50000,Europe/Stockholm,UTC+1,False,https://en.wikipedia.org/wiki/R%C3%A5sunda_Stadium
+1958,Sweden,Ullevi,Gothenburg,Sweden,57.70583,11.98722,5,53000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/Ullevi
+1958,Sweden,Malmö Stadion,Malmö,Sweden,55.58611,12.98917,8,31000,Europe/Stockholm,UTC+1,False,https://en.wikipedia.org/wiki/Malm%C3%B6_Stadion
+1958,Sweden,Olympia,Helsingborg,Sweden,56.04944,12.70694,18,27000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/Olympia_(Helsingborg)
+1958,Sweden,Idrottsparken,Norrköping,Sweden,58.58444,16.17306,12,20000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/Idrottsparken_(Norrk%C3%B6ping)
+1958,Sweden,Tunavallen,Eskilstuna,Sweden,59.37056,16.495,15,22000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/Tunavallen
+1958,Sweden,Jernvallen,Sandviken,Sweden,60.60889,16.77306,55,20000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/Jernvallen
+1958,Sweden,Rimnersvallen,Uddevalla,Sweden,58.35667,11.95,25,18000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/Rimnersvallen
+1958,Sweden,Ryavallen,Borås,Sweden,57.735724,12.934921,135,22000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/Ryavallen
+1958,Sweden,Örjans Vall,Halmstad,Sweden,56.68417,12.86639,6,15000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/%C3%96rjans_Vall
+1958,Sweden,Eyravallen,Örebro,Sweden,59.26611,15.22306,25,14000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/Eyravallen
+1958,Sweden,Arosvallen,Västerås,Sweden,59.62056,16.54111,12,13000,Europe/Stockholm,UTC+1,True,https://en.wikipedia.org/wiki/Arosvallen

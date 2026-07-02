@@ -1,0 +1,5 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+1962,Chile,Estadio Nacional Julio Martinez Pradanos,Santiago,Chile,-33.46444,-70.61056,America/Santiago,UTC-4,570,66660,True,https://en.wikipedia.org/wiki/Estadio_Nacional_Julio_Mart%C3%ADnez_Pr%C3%A1danos
+1962,Chile,Estadio Sausalito,Vina del Mar,Chile,-33.01444,-71.535,America/Santiago,UTC-4,2,18037,True,https://en.wikipedia.org/wiki/Estadio_Sausalito
+1962,Chile,Estadio El Teniente (1962: Estadio Braden Copper Co.),Rancagua,Chile,-34.17778,-70.7375,America/Santiago,UTC-4,572,18000,True,https://en.wikipedia.org/wiki/Estadio_El_Teniente
+1962,Chile,Estadio Carlos Dittborn,Arica,Chile,-18.4875,-70.29917,America/Santiago,UTC-4,2,17786,True,https://en.wikipedia.org/wiki/Estadio_Carlos_Dittborn

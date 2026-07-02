@@ -1,0 +1,6 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+1970,Mexico,Estadio Azteca,Mexico City,Mexico,19.30306,-99.15056,America/Mexico_City,UTC-6,2200,107247,True,https://en.wikipedia.org/wiki/Estadio_Azteca
+1970,Mexico,Estadio Jalisco,Guadalajara,Mexico,20.705,-103.32806,America/Mexico_City,UTC-6,1566,71100,True,https://en.wikipedia.org/wiki/Estadio_Jalisco
+1970,Mexico,Estadio Nou Camp (Estadio León),León,Mexico,21.11556,-101.65778,America/Mexico_City,UTC-6,1815,23609,True,https://en.wikipedia.org/wiki/Estadio_Le%C3%B3n
+1970,Mexico,Estadio Luis Dosal (now Estadio Nemesio Díez),Toluca,Mexico,19.28722,-99.66667,America/Mexico_City,UTC-6,2660,26900,True,https://en.wikipedia.org/wiki/Estadio_Nemesio_D%C3%ADez
+1970,Mexico,Estadio Cuauhtémoc,Puebla,Mexico,19.07806,-98.16444,America/Mexico_City,UTC-6,2135,35563,True,https://en.wikipedia.org/wiki/Estadio_Cuauht%C3%A9moc

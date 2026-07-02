@@ -1,0 +1,33 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+1966,Group 1,1966-07-11,19:30,Wembley Stadium,London,England,Uruguay,0,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_1
+1966,Group 1,1966-07-13,19:30,Wembley Stadium,London,France,Mexico,1,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_1
+1966,Group 1,1966-07-15,19:30,White City Stadium,London,Uruguay,France,2,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_1
+1966,Group 1,1966-07-16,19:30,Wembley Stadium,London,England,Mexico,2,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_1
+1966,Group 1,1966-07-19,16:30,Wembley Stadium,London,Mexico,Uruguay,0,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_1
+1966,Group 1,1966-07-20,19:30,Wembley Stadium,London,England,France,2,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_1
+1966,Group 2,1966-07-12,19:30,Hillsborough Stadium,Sheffield,West Germany,Switzerland,5,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_2
+1966,Group 2,1966-07-13,19:30,Villa Park,Birmingham,Argentina,Spain,2,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_2
+1966,Group 2,1966-07-15,19:30,Hillsborough Stadium,Sheffield,Spain,Switzerland,2,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_2
+1966,Group 2,1966-07-16,15:00,Villa Park,Birmingham,Argentina,West Germany,0,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_2
+1966,Group 2,1966-07-19,19:30,Hillsborough Stadium,Sheffield,Argentina,Switzerland,2,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_2
+1966,Group 2,1966-07-20,19:30,Villa Park,Birmingham,West Germany,Spain,2,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_2
+1966,Group 3,1966-07-12,19:30,Goodison Park,Liverpool,Brazil,Bulgaria,2,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_3
+1966,Group 3,1966-07-13,19:30,Old Trafford,Manchester,Portugal,Hungary,3,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_3
+1966,Group 3,1966-07-15,19:30,Goodison Park,Liverpool,Hungary,Brazil,3,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_3
+1966,Group 3,1966-07-16,15:00,Old Trafford,Manchester,Portugal,Bulgaria,3,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_3
+1966,Group 3,1966-07-19,19:30,Goodison Park,Liverpool,Portugal,Brazil,3,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_3
+1966,Group 3,1966-07-20,19:30,Old Trafford,Manchester,Hungary,Bulgaria,3,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_3
+1966,Group 4,1966-07-12,19:30,Ayresome Park,Middlesbrough,Soviet Union,North Korea,3,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_4
+1966,Group 4,1966-07-13,19:30,Roker Park,Sunderland,Italy,Chile,2,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_4
+1966,Group 4,1966-07-15,19:30,Ayresome Park,Middlesbrough,Chile,North Korea,1,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_4
+1966,Group 4,1966-07-16,15:00,Roker Park,Sunderland,Soviet Union,Italy,1,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_4
+1966,Group 4,1966-07-19,19:30,Ayresome Park,Middlesbrough,North Korea,Italy,1,0,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_4
+1966,Group 4,1966-07-20,19:30,Roker Park,Sunderland,Soviet Union,Chile,2,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_Group_4
+1966,Quarter-final,1966-07-23,15:00,Wembley Stadium,London,England,Argentina,1,0,,1.0,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_knockout_stage
+1966,Quarter-final,1966-07-23,15:00,Hillsborough Stadium,Sheffield,West Germany,Uruguay,4,0,,2.0,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_knockout_stage
+1966,Quarter-final,1966-07-23,15:00,Roker Park,Sunderland,Soviet Union,Hungary,2,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_knockout_stage
+1966,Quarter-final,1966-07-23,15:00,Goodison Park,Liverpool,Portugal,North Korea,5,3,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_knockout_stage
+1966,Semi-final,1966-07-25,19:30,Goodison Park,Liverpool,West Germany,Soviet Union,2,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_knockout_stage
+1966,Semi-final,1966-07-26,19:30,Wembley Stadium,London,England,Portugal,2,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_knockout_stage
+1966,Third place play-off,1966-07-28,19:30,Wembley Stadium,London,Portugal,Soviet Union,2,1,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_knockout_stage
+1966,Final,1966-07-30,15:00,Wembley Stadium,London,England,West Germany,4,2,,,https://en.wikipedia.org/wiki/1966_FIFA_World_Cup_final

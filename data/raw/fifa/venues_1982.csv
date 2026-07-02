@@ -1,0 +1,18 @@
+year,host,stadium,city,country,lat,lon,elevation_m,capacity,timezone,utc_offset_during_cup,still_exists,source_url
+1982,Spain,Camp Nou,Barcelona,Spain,41.3809,2.1228,30,121401,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Camp_Nou
+1982,Spain,Santiago Bernabéu,Madrid,Spain,40.45306,-3.68835,700,90089,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Santiago_Bernab%C3%A9u_Stadium
+1982,Spain,Estadio Ramón Sánchez Pizjuán,Seville,Spain,37.384,-5.9705,10,68110,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Ram%C3%B3n_S%C3%A1nchez_Pizju%C3%A1n_Stadium
+1982,Spain,Vicente Calderón,Madrid,Spain,40.40172,-3.72061,590,65695,Europe/Madrid,UTC+2,False,https://en.wikipedia.org/wiki/Vicente_Calder%C3%B3n_Stadium
+1982,Spain,Estadio Benito Villamarín,Seville,Spain,37.35639,-5.98139,8,50253,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Estadio_Benito_Villamar%C3%ADn
+1982,Spain,Nuevo Estadio (now Estadio Martínez Valero),Elche,Spain,38.26694,-0.66333,85,53290,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Estadio_Mart%C3%ADnez_Valero
+1982,Spain,Estadio Luis Casanova (Mestalla),Valencia,Spain,39.47472,-0.35833,13,49562,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Mestalla_Stadium
+1982,Spain,San Mamés (1913),Bilbao,Spain,43.26351,-2.94839,10,46223,Europe/Madrid,UTC+2,False,https://en.wikipedia.org/wiki/San_Mam%C3%A9s_Stadium_(1913)
+1982,Spain,El Molinón,Gijón,Spain,43.53611,-5.63722,5,45153,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/El_Molin%C3%B3n
+1982,Spain,La Rosaleda,Málaga,Spain,36.73417,-4.42667,15,45000,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/La_Rosaleda_Stadium
+1982,Spain,La Romareda,Zaragoza,Spain,41.63667,-0.90194,205,41806,Europe/Madrid,UTC+2,False,https://en.wikipedia.org/wiki/La_Romareda
+1982,Spain,Estadi de Sarrià,Barcelona,Spain,41.39306,2.13333,85,40400,Europe/Madrid,UTC+2,False,https://en.wikipedia.org/wiki/Estadi_de_Sarri%C3%A0
+1982,Spain,Estadio de Riazor,A Coruña,Spain,43.3687,-8.4175,5,34190,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Estadio_de_Riazor
+1982,Spain,Balaídos,Vigo,Spain,42.2118,-8.7397,15,33000,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Bala%C3%ADdos
+1982,Spain,Estadio José Rico Pérez,Alicante,Spain,38.35722,-0.4925,40,32500,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Rico_P%C3%A9rez
+1982,Spain,Estadio José Zorrilla,Valladolid,Spain,41.64444,-4.76111,690,30043,Europe/Madrid,UTC+2,True,https://en.wikipedia.org/wiki/Estadio_Jos%C3%A9_Zorrilla
+1982,Spain,Estadio Carlos Tartiere (1932),Oviedo,Spain,43.35791,-5.86082,220,22284,Europe/Madrid,UTC+2,False,https://en.wikipedia.org/wiki/Estadio_Carlos_Tartiere_(1932)

@@ -1,0 +1,39 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+1978,Group 1,1978-06-02,13:45,Estadio Jose Maria Minella,Mar del Plata,Italy,France,2,1,3.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_1
+1978,Group 1,1978-06-02,19:15,Estadio Monumental,Buenos Aires,Argentina,Hungary,2,1,3.0,2.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_1
+1978,Group 1,1978-06-06,13:45,Estadio Jose Maria Minella,Mar del Plata,Italy,Hungary,3,1,2.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_1
+1978,Group 1,1978-06-06,19:15,Estadio Monumental,Buenos Aires,Argentina,France,2,1,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_1
+1978,Group 1,1978-06-10,14:30,Estadio Jose Maria Minella,Mar del Plata,France,Hungary,3,1,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_1
+1978,Group 1,1978-06-10,19:15,Estadio Monumental,Buenos Aires,Argentina,Italy,0,1,1.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_1
+1978,Group 2,1978-06-01,15:00,Estadio Monumental,Buenos Aires,West Germany,Poland,0,0,0.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_2
+1978,Group 2,1978-06-02,16:45,Estadio Gigante de Arroyito,Rosario,Tunisia,Mexico,3,1,0.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_2
+1978,Group 2,1978-06-06,16:45,Estadio Mario Alberto Kempes,Cordoba,West Germany,Mexico,6,0,2.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_2
+1978,Group 2,1978-06-06,16:45,Estadio Gigante de Arroyito,Rosario,Poland,Tunisia,1,0,0.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_2
+1978,Group 2,1978-06-10,16:45,Estadio Mario Alberto Kempes,Cordoba,West Germany,Tunisia,0,0,2.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_2
+1978,Group 2,1978-06-10,16:45,Estadio Gigante de Arroyito,Rosario,Poland,Mexico,3,1,0.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_2
+1978,Group 3,1978-06-03,13:45,Estadio Jose Amalfitani,Buenos Aires,Austria,Spain,2,1,0.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_3
+1978,Group 3,1978-06-03,13:45,Estadio Jose Maria Minella,Mar del Plata,Brazil,Sweden,1,1,1.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_3
+1978,Group 3,1978-06-07,13:45,Estadio Jose Amalfitani,Buenos Aires,Austria,Sweden,1,0,0.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_3
+1978,Group 3,1978-06-07,13:45,Estadio Jose Maria Minella,Mar del Plata,Brazil,Spain,0,0,1.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_3
+1978,Group 3,1978-06-11,13:45,Estadio Jose Amalfitani,Buenos Aires,Spain,Sweden,1,0,1.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_3
+1978,Group 3,1978-06-11,13:45,Estadio Jose Maria Minella,Mar del Plata,Brazil,Austria,1,0,0.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_3
+1978,Group 4,1978-06-03,16:45,Estadio Mario Alberto Kempes,Cordoba,Peru,Scotland,3,1,1.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_4
+1978,Group 4,1978-06-03,16:45,Estadio Malvinas Argentinas,Mendoza,Netherlands,Iran,3,0,1.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_4
+1978,Group 4,1978-06-07,16:45,Estadio Mario Alberto Kempes,Cordoba,Scotland,Iran,1,1,1.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_4
+1978,Group 4,1978-06-07,16:45,Estadio Malvinas Argentinas,Mendoza,Netherlands,Peru,0,0,2.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_4
+1978,Group 4,1978-06-11,16:45,Estadio Mario Alberto Kempes,Cordoba,Peru,Iran,4,1,1.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_4
+1978,Group 4,1978-06-11,16:45,Estadio Malvinas Argentinas,Mendoza,Scotland,Netherlands,3,2,1.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_4
+1978,Second round Group A,1978-06-14,13:45,Estadio Mario Alberto Kempes,Cordoba,Austria,Netherlands,1,5,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_A
+1978,Second round Group A,1978-06-14,13:45,Estadio Monumental,Buenos Aires,Italy,West Germany,0,0,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_A
+1978,Second round Group A,1978-06-18,16:45,Estadio Mario Alberto Kempes,Cordoba,Netherlands,West Germany,2,2,2.0,1.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_A
+1978,Second round Group A,1978-06-18,16:45,Estadio Monumental,Buenos Aires,Italy,Austria,1,0,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_A
+1978,Second round Group A,1978-06-21,13:45,Estadio Mario Alberto Kempes,Cordoba,Austria,West Germany,3,2,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_A
+1978,Second round Group A,1978-06-21,13:45,Estadio Monumental,Buenos Aires,Italy,Netherlands,1,2,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_A
+1978,Second round Group B,1978-06-14,16:45,Estadio Malvinas Argentinas,Mendoza,Brazil,Peru,3,0,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_B
+1978,Second round Group B,1978-06-14,19:15,Estadio Gigante de Arroyito,Rosario,Argentina,Poland,2,0,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_B
+1978,Second round Group B,1978-06-18,13:45,Estadio Malvinas Argentinas,Mendoza,Peru,Poland,0,1,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_B
+1978,Second round Group B,1978-06-18,19:15,Estadio Gigante de Arroyito,Rosario,Argentina,Brazil,0,0,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_B
+1978,Second round Group B,1978-06-21,16:45,Estadio Malvinas Argentinas,Mendoza,Brazil,Poland,3,1,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_B
+1978,Second round Group B,1978-06-21,19:15,Estadio Gigante de Arroyito,Rosario,Argentina,Peru,6,0,,,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_Group_B
+1978,Third place playoff,1978-06-24,15:00,Estadio Monumental,Buenos Aires,Brazil,Italy,2,1,3.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_knockout_stage
+1978,Final,1978-06-25,15:00,Estadio Monumental,Buenos Aires,Argentina,Netherlands,3,1,5.0,0.0,https://en.wikipedia.org/wiki/1978_FIFA_World_Cup_knockout_stage

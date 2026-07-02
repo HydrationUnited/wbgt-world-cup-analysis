@@ -53,3 +53,13 @@ WBGT is computed from ERA5 2 m temperature, 2 m dewpoint and surface pressure (w
 2011; shaded WBGT = 0.7·Tw + 0.3·Ta), with an outdoor Liljegren variant that adds the solar/wind
 load using shortwave radiation and 10 m wind. The shaded form matches the external WBGT-ERA5-v2.0
 product to a mean bias near zero. All fields here are derived from the hourly ERA5 stream.
+
+## World Cup WBGT analysis (extension)
+Beyond the Li-2020 comparison, this bundle also contains the full World Cup heat analysis:
+- `notebooks/` — three self-contained clean-figure notebooks (see `notebooks/NOTEBOOKS.md`):
+  diurnal case-study, per-game climatology-anomaly summary (men/women), and discipline box-whiskers.
+  Each reads only the small CSVs in `data/` — no ERA5 needed.
+- `results/tables/Finalized_World_cup_Sheet_WBGT.{xlsx,csv}` — every game (men+women, 1950–2023) with
+  13 appended WBGT columns (see the accompanying `_columns.md`).
+- `data/raw/fifa/`, `data/interim/` (incl. per-venue hourly WBGT `hist/*.parquet`), and `scripts/` —
+  the raw inputs, derived data, and full code. `REPRODUCE.md` documents the from-scratch chain.

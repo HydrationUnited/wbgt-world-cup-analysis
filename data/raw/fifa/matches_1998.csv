@@ -1,0 +1,65 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+1998,Group A,1998-06-10,17:30,Stade de France,Saint-Denis,Brazil,Scotland,2,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_A
+1998,Group A,1998-06-10,21:00,Stade de la Mosson,Montpellier,Morocco,Norway,2,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_A
+1998,Group A,1998-06-16,17:30,Parc Lescure,Bordeaux,Scotland,Norway,1,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_A
+1998,Group A,1998-06-16,21:00,Stade de la Beaujoire,Nantes,Brazil,Morocco,3,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_A
+1998,Group A,1998-06-23,21:00,Stade Geoffroy-Guichard,Saint-Etienne,Scotland,Morocco,0,3,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_A
+1998,Group A,1998-06-23,21:00,Stade Velodrome,Marseille,Brazil,Norway,1,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_A
+1998,Group B,1998-06-11,17:30,Parc Lescure,Bordeaux,Italy,Chile,2,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_B
+1998,Group B,1998-06-11,21:00,Stadium Municipal,Toulouse,Cameroon,Austria,1,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_B
+1998,Group B,1998-06-17,17:30,Stade Geoffroy-Guichard,Saint-Etienne,Chile,Austria,1,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_B
+1998,Group B,1998-06-17,21:00,Stade de la Mosson,Montpellier,Italy,Cameroon,3,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_B
+1998,Group B,1998-06-23,16:00,Stade de France,Saint-Denis,Italy,Austria,2,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_B
+1998,Group B,1998-06-23,16:00,Stade de la Beaujoire,Nantes,Chile,Cameroon,1,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_B
+1998,Group C,1998-06-12,17:30,Stade Felix-Bollaert,Lens,Saudi Arabia,Denmark,0,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_C
+1998,Group C,1998-06-12,21:00,Stade Velodrome,Marseille,France,South Africa,3,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_C
+1998,Group C,1998-06-18,17:30,Stadium Municipal,Toulouse,South Africa,Denmark,1,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_C
+1998,Group C,1998-06-18,21:00,Stade de France,Saint-Denis,France,Saudi Arabia,4,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_C
+1998,Group C,1998-06-24,16:00,Stade de Gerland,Lyon,France,Denmark,2,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_C
+1998,Group C,1998-06-24,16:00,Parc Lescure,Bordeaux,South Africa,Saudi Arabia,2,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_C
+1998,Group D,1998-06-12,14:30,Stade de la Mosson,Montpellier,Paraguay,Bulgaria,0,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_D
+1998,Group D,1998-06-13,14:30,Stade de la Beaujoire,Nantes,Spain,Nigeria,2,3,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_D
+1998,Group D,1998-06-19,17:30,Parc des Princes,Paris,Nigeria,Bulgaria,1,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_D
+1998,Group D,1998-06-19,21:00,Stade Geoffroy-Guichard,Saint-Etienne,Spain,Paraguay,0,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_D
+1998,Group D,1998-06-24,21:00,Stadium Municipal,Toulouse,Nigeria,Paraguay,1,3,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_D
+1998,Group D,1998-06-24,21:00,Stade Felix-Bollaert,Lens,Spain,Bulgaria,6,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_D
+1998,Group E,1998-06-13,17:30,Stade de Gerland,Lyon,South Korea,Mexico,1,3,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_E
+1998,Group E,1998-06-13,21:00,Stade de France,Saint-Denis,Netherlands,Belgium,0,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_E
+1998,Group E,1998-06-20,17:30,Parc Lescure,Bordeaux,Belgium,Mexico,2,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_E
+1998,Group E,1998-06-20,21:00,Stade Velodrome,Marseille,Netherlands,South Korea,5,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_E
+1998,Group E,1998-06-25,16:00,Stade Geoffroy-Guichard,Saint-Etienne,Netherlands,Mexico,2,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_E
+1998,Group E,1998-06-25,16:00,Parc des Princes,Paris,Belgium,South Korea,1,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_E
+1998,Group F,1998-06-14,17:30,Stade Geoffroy-Guichard,Saint-Etienne,FR Yugoslavia,Iran,1,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_F
+1998,Group F,1998-06-15,21:00,Parc des Princes,Paris,Germany,United States,2,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_F
+1998,Group F,1998-06-21,14:30,Stade Felix-Bollaert,Lens,Germany,FR Yugoslavia,2,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_F
+1998,Group F,1998-06-21,21:00,Stade de Gerland,Lyon,United States,Iran,1,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_F
+1998,Group F,1998-06-25,21:00,Stade de la Mosson,Montpellier,Germany,Iran,2,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_F
+1998,Group F,1998-06-25,21:00,Stade de la Beaujoire,Nantes,United States,FR Yugoslavia,0,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_F
+1998,Group G,1998-06-15,14:30,Stade Velodrome,Marseille,England,Tunisia,2,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_G
+1998,Group G,1998-06-15,17:30,Stade de Gerland,Lyon,Romania,Colombia,1,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_G
+1998,Group G,1998-06-22,17:30,Stade de la Mosson,Montpellier,Colombia,Tunisia,1,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_G
+1998,Group G,1998-06-22,21:00,Stadium Municipal,Toulouse,Romania,England,2,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_G
+1998,Group G,1998-06-26,21:00,Stade Felix-Bollaert,Lens,Colombia,England,0,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_G
+1998,Group G,1998-06-26,21:00,Stade de France,Saint-Denis,Romania,Tunisia,1,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_G
+1998,Group H,1998-06-14,14:30,Stadium Municipal,Toulouse,Argentina,Japan,1,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_H
+1998,Group H,1998-06-14,21:00,Stade Felix-Bollaert,Lens,Jamaica,Croatia,1,3,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_H
+1998,Group H,1998-06-20,14:30,Stade de la Beaujoire,Nantes,Japan,Croatia,0,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_H
+1998,Group H,1998-06-21,17:30,Parc des Princes,Paris,Argentina,Jamaica,5,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_H
+1998,Group H,1998-06-26,16:00,Parc Lescure,Bordeaux,Argentina,Croatia,1,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_H
+1998,Group H,1998-06-26,16:00,Stade de Gerland,Lyon,Japan,Jamaica,1,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Group_H
+1998,Round of 16,1998-06-27,16:30,Stade Velodrome,Marseille,Italy,Norway,1,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Round of 16,1998-06-27,21:00,Parc des Princes,Paris,Brazil,Chile,4,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Round of 16,1998-06-28,16:30,Stade Felix-Bollaert,Lens,France,Paraguay,1,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Round of 16,1998-06-28,21:00,Stade de France,Saint-Denis,Nigeria,Denmark,1,4,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Round of 16,1998-06-29,16:30,Stade de la Mosson,Montpellier,Germany,Mexico,2,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Round of 16,1998-06-29,21:00,Stadium Municipal,Toulouse,Netherlands,FR Yugoslavia,2,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Round of 16,1998-06-30,16:30,Parc Lescure,Bordeaux,Romania,Croatia,0,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Round of 16 (Argentina won 4-3 on penalties),1998-06-30,21:00,Stade Geoffroy-Guichard,Saint-Etienne,Argentina,England,2,2,,1.0,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Quarter-final (France won 4-3 on penalties),1998-07-03,16:30,Stade de France,Saint-Denis,Italy,France,0,0,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Quarter-final,1998-07-03,21:00,Stade de la Beaujoire,Nantes,Brazil,Denmark,3,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Quarter-final,1998-07-04,21:00,Stade Velodrome,Marseille,Netherlands,Argentina,2,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Quarter-final,1998-07-04,21:00,Stade de Gerland,Lyon,Germany,Croatia,0,3,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Semi-final (Brazil won 4-2 on penalties),1998-07-07,21:00,Stade Velodrome,Marseille,Brazil,Netherlands,1,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Semi-final,1998-07-08,21:00,Stade de France,Saint-Denis,France,Croatia,2,1,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Third place play-off,1998-07-11,21:00,Parc des Princes,Paris,Netherlands,Croatia,1,2,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_knockout_stage
+1998,Final,1998-07-12,21:00,Stade de France,Saint-Denis,Brazil,France,0,3,,,https://en.wikipedia.org/wiki/1998_FIFA_World_Cup_Final

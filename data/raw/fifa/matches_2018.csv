@@ -1,0 +1,65 @@
+year,round,match_no,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,went_to_extra_time,attendance,yellow_cards,red_cards,fouls,source_url
+2018,Group A,1,2018-06-14,18:00,Luzhniki Stadium,Moscow,Russia,Saudi Arabia,5,0,False,78011,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_A
+2018,Group A,2,2018-06-15,17:00,Yekaterinburg Arena,Yekaterinburg,Egypt,Uruguay,0,1,False,27015,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_A
+2018,Group B,3,2018-06-15,18:00,Saint Petersburg Stadium,Saint Petersburg,Morocco,Iran,0,1,False,62548,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_B
+2018,Group B,4,2018-06-15,21:00,Fisht Olympic Stadium,Sochi,Portugal,Spain,3,3,False,43866,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_B
+2018,Group C,5,2018-06-16,13:00,Kazan Arena,Kazan,France,Australia,2,1,False,41279,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_C
+2018,Group D,6,2018-06-16,16:00,Otkritie Arena,Moscow,Argentina,Iceland,1,1,False,44190,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_D
+2018,Group C,7,2018-06-16,19:00,Mordovia Arena,Saransk,Peru,Denmark,0,1,False,40502,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_C
+2018,Group D,8,2018-06-16,21:00,Kaliningrad Stadium,Kaliningrad,Croatia,Nigeria,2,0,False,31136,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_D
+2018,Group E,9,2018-06-17,16:00,Samara Arena,Samara,Costa Rica,Serbia,0,1,False,41432,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_E
+2018,Group F,10,2018-06-17,18:00,Luzhniki Stadium,Moscow,Germany,Mexico,0,1,False,78011,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_F
+2018,Group E,11,2018-06-17,21:00,Rostov Arena,Rostov-on-Don,Brazil,Switzerland,1,1,False,43109,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_E
+2018,Group F,12,2018-06-18,15:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Sweden,South Korea,1,0,False,42300,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_F
+2018,Group G,13,2018-06-18,18:00,Fisht Olympic Stadium,Sochi,Belgium,Panama,3,0,False,43257,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_G
+2018,Group G,14,2018-06-18,21:00,Volgograd Arena,Volgograd,Tunisia,England,1,2,False,41064,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_G
+2018,Group H,15,2018-06-19,15:00,Mordovia Arena,Saransk,Colombia,Japan,1,2,False,40842,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_H
+2018,Group H,16,2018-06-19,18:00,Otkritie Arena,Moscow,Poland,Senegal,1,2,False,44190,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_H
+2018,Group A,17,2018-06-19,21:00,Saint Petersburg Stadium,Saint Petersburg,Russia,Egypt,3,1,False,64468,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_A
+2018,Group B,18,2018-06-20,15:00,Luzhniki Stadium,Moscow,Portugal,Morocco,1,0,False,78011,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_B
+2018,Group A,19,2018-06-20,18:00,Rostov Arena,Rostov-on-Don,Uruguay,Saudi Arabia,1,0,False,42678,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_A
+2018,Group B,20,2018-06-20,21:00,Kazan Arena,Kazan,Iran,Spain,0,1,False,42718,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_B
+2018,Group C,21,2018-06-21,16:00,Samara Arena,Samara,Denmark,Australia,1,1,False,40727,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_C
+2018,Group C,22,2018-06-21,20:00,Yekaterinburg Arena,Yekaterinburg,France,Peru,1,0,False,32789,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_C
+2018,Group D,23,2018-06-21,21:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Argentina,Croatia,0,3,False,43319,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_D
+2018,Group E,24,2018-06-22,15:00,Saint Petersburg Stadium,Saint Petersburg,Brazil,Costa Rica,2,0,False,64468,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_E
+2018,Group D,25,2018-06-22,18:00,Volgograd Arena,Volgograd,Nigeria,Iceland,2,0,False,40904,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_D
+2018,Group E,26,2018-06-22,20:00,Kaliningrad Stadium,Kaliningrad,Serbia,Switzerland,1,2,False,33167,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_E
+2018,Group G,27,2018-06-23,15:00,Otkritie Arena,Moscow,Belgium,Tunisia,5,2,False,44190,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_G
+2018,Group F,28,2018-06-23,18:00,Rostov Arena,Rostov-on-Don,South Korea,Mexico,1,2,False,43472,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_F
+2018,Group F,29,2018-06-23,21:00,Fisht Olympic Stadium,Sochi,Germany,Sweden,2,1,False,44287,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_F
+2018,Group G,30,2018-06-24,15:00,Nizhny Novgorod Stadium,Nizhny Novgorod,England,Panama,6,1,False,43319,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_G
+2018,Group H,31,2018-06-24,20:00,Yekaterinburg Arena,Yekaterinburg,Japan,Senegal,2,2,False,32572,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_H
+2018,Group H,32,2018-06-24,21:00,Kazan Arena,Kazan,Poland,Colombia,0,3,False,42873,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_H
+2018,Group A,33,2018-06-25,17:00,Volgograd Arena,Volgograd,Saudi Arabia,Egypt,2,1,False,36823,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_A
+2018,Group A,34,2018-06-25,18:00,Samara Arena,Samara,Uruguay,Russia,3,0,False,41970,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_A
+2018,Group B,35,2018-06-25,21:00,Mordovia Arena,Saransk,Iran,Portugal,1,1,False,41685,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_B
+2018,Group B,36,2018-06-25,20:00,Kaliningrad Stadium,Kaliningrad,Spain,Morocco,2,2,False,33973,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_B
+2018,Group C,37,2018-06-26,17:00,Luzhniki Stadium,Moscow,Denmark,France,0,0,False,78011,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_C
+2018,Group C,38,2018-06-26,17:00,Fisht Olympic Stadium,Sochi,Australia,Peru,0,2,False,44073,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_C
+2018,Group D,39,2018-06-26,21:00,Saint Petersburg Stadium,Saint Petersburg,Nigeria,Argentina,1,2,False,64468,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_D
+2018,Group D,40,2018-06-26,21:00,Rostov Arena,Rostov-on-Don,Iceland,Croatia,1,2,False,43472,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_D
+2018,Group F,41,2018-06-27,17:00,Kazan Arena,Kazan,South Korea,Germany,2,0,False,41835,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_F
+2018,Group F,42,2018-06-27,19:00,Yekaterinburg Arena,Yekaterinburg,Mexico,Sweden,0,3,False,33061,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_F
+2018,Group E,43,2018-06-27,21:00,Otkritie Arena,Moscow,Serbia,Brazil,0,2,False,44190,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_E
+2018,Group E,44,2018-06-27,21:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Switzerland,Costa Rica,2,2,False,43319,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_E
+2018,Group H,45,2018-06-28,17:00,Volgograd Arena,Volgograd,Japan,Poland,0,1,False,42189,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_H
+2018,Group H,46,2018-06-28,18:00,Samara Arena,Samara,Senegal,Colombia,0,1,False,41970,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_H
+2018,Group G,47,2018-06-28,20:00,Kaliningrad Stadium,Kaliningrad,England,Belgium,0,1,False,33973,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_G
+2018,Group G,48,2018-06-28,21:00,Mordovia Arena,Saransk,Panama,Tunisia,1,2,False,37168,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_Group_G
+2018,Round of 16,49,2018-06-30,17:00,Kazan Arena,Kazan,France,Argentina,4,3,False,42873,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Round of 16,50,2018-06-30,21:00,Fisht Olympic Stadium,Sochi,Uruguay,Portugal,2,1,False,44287,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Round of 16,51,2018-07-01,17:00,Luzhniki Stadium,Moscow,Spain,Russia,1,1,True,78011,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Round of 16,52,2018-07-01,21:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Croatia,Denmark,1,1,True,40851,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Round of 16,53,2018-07-02,18:00,Samara Arena,Samara,Brazil,Mexico,2,0,False,41970,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Round of 16,54,2018-07-02,21:00,Rostov Arena,Rostov-on-Don,Belgium,Japan,3,2,False,41466,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Round of 16,55,2018-07-03,17:00,Saint Petersburg Stadium,Saint Petersburg,Sweden,Switzerland,1,0,False,64042,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Round of 16,56,2018-07-03,21:00,Otkritie Arena,Moscow,Colombia,England,1,1,True,44190,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Quarter-final,57,2018-07-06,17:00,Nizhny Novgorod Stadium,Nizhny Novgorod,Uruguay,France,0,2,False,43319,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Quarter-final,58,2018-07-06,21:00,Kazan Arena,Kazan,Brazil,Belgium,1,2,False,42873,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Quarter-final,59,2018-07-07,18:00,Samara Arena,Samara,Sweden,England,0,2,False,39991,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Quarter-final,60,2018-07-07,21:00,Fisht Olympic Stadium,Sochi,Russia,Croatia,2,2,True,44287,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Semi-final,61,2018-07-10,21:00,Saint Petersburg Stadium,Saint Petersburg,France,Belgium,1,0,False,64286,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Semi-final,62,2018-07-11,21:00,Luzhniki Stadium,Moscow,Croatia,England,2,1,True,78011,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Third place,63,2018-07-14,17:00,Saint Petersburg Stadium,Saint Petersburg,Belgium,England,2,0,False,64406,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_knockout_stage
+2018,Final,64,2018-07-15,18:00,Luzhniki Stadium,Moscow,France,Croatia,4,2,False,78011,,,,https://en.wikipedia.org/wiki/2018_FIFA_World_Cup_final

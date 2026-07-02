@@ -1,0 +1,13 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+2006,Germany,Olympiastadion,Berlin,Germany,52.514722,13.239444,Europe/Berlin,UTC+2,50,72000,True,https://en.wikipedia.org/wiki/Olympiastadion_(Berlin)
+2006,Germany,Allianz Arena,Munich,Germany,48.218775,11.624753,Europe/Berlin,UTC+2,500,66000,True,https://en.wikipedia.org/wiki/Allianz_Arena
+2006,Germany,Westfalenstadion (Signal Iduna Park),Dortmund,Germany,51.4925,7.45167,Europe/Berlin,UTC+2,86,65000,True,https://en.wikipedia.org/wiki/Westfalenstadion
+2006,Germany,Gottlieb-Daimler-Stadion (now MHPArena/Mercedes-Benz Arena),Stuttgart,Germany,48.79222,9.23194,Europe/Berlin,UTC+2,220,52000,True,https://en.wikipedia.org/wiki/Mercedes-Benz_Arena_(Stuttgart)
+2006,Germany,Veltins-Arena (Arena AufSchalke),Gelsenkirchen,Germany,51.55444,7.0675,Europe/Berlin,UTC+2,54,52000,True,https://en.wikipedia.org/wiki/Veltins-Arena
+2006,Germany,Volksparkstadion (AOL Arena),Hamburg,Germany,53.58722,9.89861,Europe/Berlin,UTC+2,25,50000,True,https://en.wikipedia.org/wiki/Volksparkstadion
+2006,Germany,Commerzbank-Arena (Waldstadion; now Deutsche Bank Park),Frankfurt,Germany,50.068056,8.645806,Europe/Berlin,UTC+2,108,48000,True,https://en.wikipedia.org/wiki/Deutsche_Bank_Park
+2006,Germany,Fritz-Walter-Stadion,Kaiserslautern,Germany,49.43444,7.77611,Europe/Berlin,UTC+2,285,46000,True,https://en.wikipedia.org/wiki/Fritz-Walter-Stadion
+2006,Germany,RheinEnergieStadion,Cologne,Germany,50.93361,6.875,Europe/Berlin,UTC+2,50,45000,True,https://en.wikipedia.org/wiki/RheinEnergieStadion
+2006,Germany,Niedersachsenstadion (AWD-Arena; now Heinz-von-Heiden-Arena),Hanover,Germany,52.36,9.73111,Europe/Berlin,UTC+2,53,43000,True,https://en.wikipedia.org/wiki/Niedersachsenstadion
+2006,Germany,Zentralstadion (now Red Bull Arena),Leipzig,Germany,51.34583,12.34833,Europe/Berlin,UTC+2,112,43000,True,https://en.wikipedia.org/wiki/Red_Bull_Arena_(Leipzig)
+2006,Germany,Frankenstadion (now Max-Morlock-Stadion),Nuremberg,Germany,49.42611,11.12583,Europe/Berlin,UTC+2,310,41000,True,https://en.wikipedia.org/wiki/Max-Morlock-Stadion

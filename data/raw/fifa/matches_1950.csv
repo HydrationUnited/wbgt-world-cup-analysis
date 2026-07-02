@@ -1,0 +1,23 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+1950,Group 1,1950-06-24,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil,Mexico,4,0,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_1
+1950,Group 1,1950-06-25,15:00,Estádio Independência,Belo Horizonte,Yugoslavia,Switzerland,3,0,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_1
+1950,Group 1,1950-06-28,15:00,Estádio do Pacaembu,São Paulo,Brazil,Switzerland,2,2,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_1
+1950,Group 1,1950-06-28,15:00,Estádio dos Eucaliptos,Porto Alegre,Yugoslavia,Mexico,4,1,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_1
+1950,Group 1,1950-07-01,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil,Yugoslavia,2,0,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_1
+1950,Group 1,1950-07-02,15:40,Estádio dos Eucaliptos,Porto Alegre,Switzerland,Mexico,2,1,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_1
+1950,Group 2,1950-06-25,15:00,Estádio do Maracanã,Rio de Janeiro,England,Chile,2,0,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_2
+1950,Group 2,1950-06-25,15:00,Estádio Durival de Britto (Vila Capanema),Curitiba,Spain,United States,3,1,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_2
+1950,Group 2,1950-06-29,15:00,Estádio do Maracanã,Rio de Janeiro,Spain,Chile,2,0,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_2
+1950,Group 2,1950-06-29,15:00,Estádio Independência,Belo Horizonte,United States,England,1,0,,,https://en.wikipedia.org/wiki/United_States_v_England_(1950_FIFA_World_Cup)
+1950,Group 2,1950-07-02,15:00,Estádio do Maracanã,Rio de Janeiro,Spain,England,1,0,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_2
+1950,Group 2,1950-07-02,15:00,Estádio Ilha do Retiro,Recife,Chile,United States,5,2,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_2
+1950,Group 3,1950-06-25,15:00,Estádio do Pacaembu,São Paulo,Sweden,Italy,3,2,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_3
+1950,Group 3,1950-06-29,15:30,Estádio Durival de Britto (Vila Capanema),Curitiba,Sweden,Paraguay,2,2,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_3
+1950,Group 3,1950-07-02,15:00,Estádio do Pacaembu,São Paulo,Italy,Paraguay,2,0,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_3
+1950,Group 4,1950-07-02,15:00,Estádio Independência,Belo Horizonte,Uruguay,Bolivia,8,0,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_Group_4
+1950,Final round,1950-07-09,15:00,Estádio do Pacaembu,São Paulo,Uruguay,Spain,2,2,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_final_round
+1950,Final round,1950-07-09,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil,Sweden,7,1,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_final_round
+1950,Final round,1950-07-13,15:00,Estádio do Maracanã,Rio de Janeiro,Brazil,Spain,6,1,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_final_round
+1950,Final round,1950-07-13,15:00,Estádio do Pacaembu,São Paulo,Uruguay,Sweden,3,2,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_final_round
+1950,Final round,1950-07-16,15:00,Estádio do Pacaembu,São Paulo,Sweden,Spain,3,1,,,https://en.wikipedia.org/wiki/1950_FIFA_World_Cup_final_round
+1950,Final round,1950-07-16,15:00,Estádio do Maracanã,Rio de Janeiro,Uruguay,Brazil,2,1,,,https://en.wikipedia.org/wiki/Uruguay_v_Brazil_(1950_FIFA_World_Cup)

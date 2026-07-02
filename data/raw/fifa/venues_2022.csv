@@ -1,0 +1,9 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,source_url
+2022,Qatar,Al Bayt Stadium,Al Khor,Qatar,25.65222,51.48778,Asia/Qatar,UTC+3,4,68895,https://en.wikipedia.org/wiki/Al_Bayt_Stadium
+2022,Qatar,Lusail Stadium,Lusail,Qatar,25.42086,51.49039,Asia/Qatar,UTC+3,10,88966,https://en.wikipedia.org/wiki/Lusail_Stadium
+2022,Qatar,Ahmad bin Ali Stadium,Al Rayyan,Qatar,25.32964,51.342273,Asia/Qatar,UTC+3,37,45032,https://en.wikipedia.org/wiki/Ahmad_bin_Ali_Stadium
+2022,Qatar,Education City Stadium,Al Rayyan,Qatar,25.3108,51.4244,Asia/Qatar,UTC+3,19,44667,https://en.wikipedia.org/wiki/Education_City_Stadium
+2022,Qatar,Khalifa International Stadium,Al Rayyan,Qatar,25.26361,51.44806,Asia/Qatar,UTC+3,26,45857,https://en.wikipedia.org/wiki/Khalifa_International_Stadium
+2022,Qatar,Al Thumama Stadium,Doha,Qatar,25.235278,51.532182,Asia/Qatar,UTC+3,17,44400,https://en.wikipedia.org/wiki/Al_Thumama_Stadium
+2022,Qatar,Stadium 974,Doha,Qatar,25.29,51.565,Asia/Qatar,UTC+3,5,44089,https://en.wikipedia.org/wiki/Stadium_974
+2022,Qatar,Al Janoub Stadium,Al Wakrah,Qatar,25.15972,51.57417,Asia/Qatar,UTC+3,15,44325,https://en.wikipedia.org/wiki/Al_Janoub_Stadium

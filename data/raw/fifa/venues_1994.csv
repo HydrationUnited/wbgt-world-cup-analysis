@@ -1,0 +1,10 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+1994,United States,Rose Bowl,"Pasadena, California",United States,34.161,-118.168,America/Los_Angeles,UTC-7,255,94194,True,https://en.wikipedia.org/wiki/Rose_Bowl_(stadium)
+1994,United States,Giants Stadium,"East Rutherford, New Jersey",United States,40.81222,-74.07694,America/New_York,UTC-4,2,76322,False,https://en.wikipedia.org/wiki/Giants_Stadium
+1994,United States,Stanford Stadium,"Stanford, California",United States,37.43444,-122.16111,America/Los_Angeles,UTC-7,18,84147,False,https://en.wikipedia.org/wiki/Stanford_Stadium
+1994,United States,Pontiac Silverdome,"Pontiac, Michigan",United States,42.64583,-83.255,America/Detroit,UTC-4,300,77557,False,https://en.wikipedia.org/wiki/Pontiac_Silverdome
+1994,United States,Cotton Bowl,"Dallas, Texas",United States,32.77944,-96.75972,America/Chicago,UTC-5,140,64000,True,https://en.wikipedia.org/wiki/Cotton_Bowl_(stadium)
+1994,United States,Soldier Field,"Chicago, Illinois",United States,41.8623,-87.6167,America/Chicago,UTC-5,181,63160,True,https://en.wikipedia.org/wiki/Soldier_Field
+1994,United States,Citrus Bowl,"Orlando, Florida",United States,28.53889,-81.40278,America/New_York,UTC-4,30,62387,True,https://en.wikipedia.org/wiki/Camping_World_Stadium
+1994,United States,Foxboro Stadium,"Foxborough, Massachusetts",United States,42.09278,-71.2675,America/New_York,UTC-4,65,54456,False,https://en.wikipedia.org/wiki/Foxboro_Stadium
+1994,United States,Robert F. Kennedy Memorial Stadium (RFK Stadium),"Washington, D.C.",United States,38.89,-76.9719,America/New_York,UTC-4,5,53121,False,https://en.wikipedia.org/wiki/RFK_Stadium

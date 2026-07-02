@@ -1,0 +1,65 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+2006,Group A,2006-06-09,18:00,Allianz Arena,Munich,Germany,Costa Rica,4,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_A
+2006,Group A,2006-06-09,21:00,Veltins-Arena (Arena AufSchalke),Gelsenkirchen,Poland,Ecuador,0,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_A
+2006,Group A,2006-06-14,21:00,Westfalenstadion,Dortmund,Germany,Poland,1,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_A
+2006,Group A,2006-06-15,15:00,Volksparkstadion,Hamburg,Ecuador,Costa Rica,3,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_A
+2006,Group A,2006-06-20,16:00,Olympiastadion,Berlin,Ecuador,Germany,0,3,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_A
+2006,Group A,2006-06-20,16:00,Niedersachsenstadion,Hanover,Costa Rica,Poland,1,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_A
+2006,Group B,2006-06-10,15:00,Commerzbank-Arena (Waldstadion),Frankfurt,England,Paraguay,1,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_B
+2006,Group B,2006-06-10,18:00,Westfalenstadion,Dortmund,Trinidad and Tobago,Sweden,0,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_B
+2006,Group B,2006-06-15,18:00,Frankenstadion,Nuremberg,England,Trinidad and Tobago,2,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_B
+2006,Group B,2006-06-15,21:00,Olympiastadion,Berlin,Sweden,Paraguay,1,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_B
+2006,Group B,2006-06-20,21:00,RheinEnergieStadion,Cologne,Sweden,England,2,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_B
+2006,Group B,2006-06-20,21:00,Fritz-Walter-Stadion,Kaiserslautern,Paraguay,Trinidad and Tobago,2,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_B
+2006,Group C,2006-06-10,21:00,Volksparkstadion,Hamburg,Argentina,Ivory Coast,2,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_C
+2006,Group C,2006-06-11,15:00,Zentralstadion,Leipzig,Serbia and Montenegro,Netherlands,0,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_C
+2006,Group C,2006-06-16,15:00,Veltins-Arena (Arena AufSchalke),Gelsenkirchen,Argentina,Serbia and Montenegro,6,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_C
+2006,Group C,2006-06-16,18:00,Gottlieb-Daimler-Stadion,Stuttgart,Netherlands,Ivory Coast,2,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_C
+2006,Group C,2006-06-21,21:00,Commerzbank-Arena (Waldstadion),Frankfurt,Netherlands,Argentina,0,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_C
+2006,Group C,2006-06-21,21:00,Allianz Arena,Munich,Ivory Coast,Serbia and Montenegro,3,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_C
+2006,Group D,2006-06-11,18:00,Frankenstadion,Nuremberg,Mexico,Iran,3,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_D
+2006,Group D,2006-06-11,21:00,RheinEnergieStadion,Cologne,Angola,Portugal,0,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_D
+2006,Group D,2006-06-16,21:00,Niedersachsenstadion,Hanover,Mexico,Angola,0,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_D
+2006,Group D,2006-06-17,15:00,Commerzbank-Arena (Waldstadion),Frankfurt,Portugal,Iran,2,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_D
+2006,Group D,2006-06-21,16:00,Veltins-Arena (Arena AufSchalke),Gelsenkirchen,Portugal,Mexico,2,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_D
+2006,Group D,2006-06-21,16:00,Zentralstadion,Leipzig,Iran,Angola,1,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_D
+2006,Group E,2006-06-12,18:00,Veltins-Arena (Arena AufSchalke),Gelsenkirchen,United States,Czech Republic,0,3,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_E
+2006,Group E,2006-06-12,21:00,Niedersachsenstadion,Hanover,Italy,Ghana,2,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_E
+2006,Group E,2006-06-17,18:00,RheinEnergieStadion,Cologne,Czech Republic,Ghana,0,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_E
+2006,Group E,2006-06-17,21:00,Fritz-Walter-Stadion,Kaiserslautern,Italy,United States,1,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_E
+2006,Group E,2006-06-22,16:00,Volksparkstadion,Hamburg,Czech Republic,Italy,0,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_E
+2006,Group E,2006-06-22,16:00,Frankenstadion,Nuremberg,Ghana,United States,2,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_E
+2006,Group F,2006-06-12,15:00,Fritz-Walter-Stadion,Kaiserslautern,Australia,Japan,3,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_F
+2006,Group F,2006-06-13,21:00,Olympiastadion,Berlin,Brazil,Croatia,1,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_F
+2006,Group F,2006-06-18,15:00,Frankenstadion,Nuremberg,Japan,Croatia,0,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_F
+2006,Group F,2006-06-18,18:00,Allianz Arena,Munich,Brazil,Australia,2,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_F
+2006,Group F,2006-06-22,21:00,Westfalenstadion,Dortmund,Japan,Brazil,1,4,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_F
+2006,Group F,2006-06-22,21:00,Gottlieb-Daimler-Stadion,Stuttgart,Croatia,Australia,2,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_F
+2006,Group G,2006-06-13,15:00,Commerzbank-Arena (Waldstadion),Frankfurt,South Korea,Togo,2,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_G
+2006,Group G,2006-06-13,18:00,Gottlieb-Daimler-Stadion,Stuttgart,France,Switzerland,0,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_G
+2006,Group G,2006-06-18,21:00,Zentralstadion,Leipzig,France,South Korea,1,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_G
+2006,Group G,2006-06-19,15:00,Westfalenstadion,Dortmund,Togo,Switzerland,0,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_G
+2006,Group G,2006-06-23,21:00,RheinEnergieStadion,Cologne,Togo,France,0,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_G
+2006,Group G,2006-06-23,21:00,Niedersachsenstadion,Hanover,Switzerland,South Korea,2,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_G
+2006,Group H,2006-06-14,15:00,Zentralstadion,Leipzig,Spain,Ukraine,4,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_H
+2006,Group H,2006-06-14,18:00,Allianz Arena,Munich,Tunisia,Saudi Arabia,2,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_H
+2006,Group H,2006-06-19,18:00,Volksparkstadion,Hamburg,Saudi Arabia,Ukraine,0,4,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_H
+2006,Group H,2006-06-19,21:00,Gottlieb-Daimler-Stadion,Stuttgart,Spain,Tunisia,3,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_H
+2006,Group H,2006-06-23,16:00,Fritz-Walter-Stadion,Kaiserslautern,Saudi Arabia,Spain,0,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_H
+2006,Group H,2006-06-23,16:00,Olympiastadion,Berlin,Ukraine,Tunisia,1,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Group_H
+2006,Round of 16,2006-06-24,17:00,Allianz Arena,Munich,Germany,Sweden,2,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Round of 16,2006-06-24,21:00,Zentralstadion,Leipzig,Argentina,Mexico,2,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Round of 16,2006-06-25,17:00,Gottlieb-Daimler-Stadion,Stuttgart,England,Ecuador,1,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Round of 16,2006-06-25,21:00,Frankenstadion,Nuremberg,Portugal,Netherlands,1,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Round of 16,2006-06-26,17:00,Fritz-Walter-Stadion,Kaiserslautern,Italy,Australia,1,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Round of 16,2006-06-26,21:00,RheinEnergieStadion,Cologne,Switzerland,Ukraine,0,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Round of 16,2006-06-27,17:00,Westfalenstadion,Dortmund,Brazil,Ghana,3,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Round of 16,2006-06-27,21:00,Niedersachsenstadion,Hanover,Spain,France,1,3,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Quarter-final,2006-06-30,17:00,Olympiastadion,Berlin,Germany,Argentina,1,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Quarter-final,2006-06-30,21:00,Volksparkstadion,Hamburg,Italy,Ukraine,3,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Quarter-final,2006-07-01,17:00,Veltins-Arena (Arena AufSchalke),Gelsenkirchen,England,Portugal,0,0,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Quarter-final,2006-07-01,21:00,Commerzbank-Arena (Waldstadion),Frankfurt,Brazil,France,0,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Semi-final,2006-07-04,21:00,Westfalenstadion,Dortmund,Germany,Italy,0,2,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Semi-final,2006-07-05,21:00,Allianz Arena,Munich,Portugal,France,0,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Third place play-off,2006-07-08,21:00,Gottlieb-Daimler-Stadion,Stuttgart,Germany,Portugal,3,1,,,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_knockout_stage
+2006,Final,2006-07-09,20:00,Olympiastadion,Berlin,Italy,France,1,1,4.0,1.0,https://en.wikipedia.org/wiki/2006_FIFA_World_Cup_Final

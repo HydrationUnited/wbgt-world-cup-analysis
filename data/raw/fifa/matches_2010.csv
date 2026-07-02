@@ -1,0 +1,65 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+2010,Group A,2010-06-11,16:00,Soccer City (FNB Stadium),Johannesburg,South Africa,Mexico,1,1,3.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A
+2010,Group A,2010-06-11,20:30,Cape Town Stadium (Green Point),Cape Town,Uruguay,France,0,0,7.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A
+2010,Group A,2010-06-16,20:30,Loftus Versfeld Stadium,Pretoria,South Africa,Uruguay,0,3,3.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A
+2010,Group A,2010-06-17,20:30,Peter Mokaba Stadium,Polokwane,France,Mexico,0,2,8.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A
+2010,Group A,2010-06-22,16:00,Royal Bafokeng Stadium,Rustenburg,Mexico,Uruguay,0,1,2.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A
+2010,Group A,2010-06-22,16:00,Free State Stadium,Bloemfontein,France,South Africa,1,2,2.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_A
+2010,Group B,2010-06-12,13:30,Nelson Mandela Bay Stadium,Port Elizabeth,South Korea,Greece,2,0,1.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_B
+2010,Group B,2010-06-12,16:00,Ellis Park Stadium,Johannesburg,Argentina,Nigeria,1,0,3.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_B
+2010,Group B,2010-06-17,13:30,Soccer City (FNB Stadium),Johannesburg,Argentina,South Korea,4,1,4.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_B
+2010,Group B,2010-06-17,16:00,Free State Stadium,Bloemfontein,Greece,Nigeria,2,1,6.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_B
+2010,Group B,2010-06-22,20:30,Moses Mabhida Stadium,Durban,Nigeria,South Korea,2,2,4.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_B
+2010,Group B,2010-06-22,20:30,Peter Mokaba Stadium,Polokwane,Greece,Argentina,0,2,2.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_B
+2010,Group C,2010-06-12,20:30,Royal Bafokeng Stadium,Rustenburg,England,United States,1,1,6.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_C
+2010,Group C,2010-06-13,13:30,Peter Mokaba Stadium,Polokwane,Algeria,Slovenia,0,1,4.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_C
+2010,Group C,2010-06-18,16:00,Ellis Park Stadium,Johannesburg,Slovenia,United States,2,2,5.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_C
+2010,Group C,2010-06-18,20:30,Cape Town Stadium (Green Point),Cape Town,England,Algeria,0,0,2.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_C
+2010,Group C,2010-06-23,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Slovenia,England,0,1,4.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_C
+2010,Group C,2010-06-23,16:00,Loftus Versfeld Stadium,Pretoria,United States,Algeria,1,0,6.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_C
+2010,Group D,2010-06-13,16:00,Loftus Versfeld Stadium,Pretoria,Serbia,Ghana,0,1,3.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_D
+2010,Group D,2010-06-13,20:30,Moses Mabhida Stadium,Durban,Germany,Australia,4,0,4.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_D
+2010,Group D,2010-06-18,13:30,Nelson Mandela Bay Stadium,Port Elizabeth,Germany,Serbia,0,1,6.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_D
+2010,Group D,2010-06-19,16:00,Royal Bafokeng Stadium,Rustenburg,Ghana,Australia,1,1,5.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_D
+2010,Group D,2010-06-23,20:30,Soccer City (FNB Stadium),Johannesburg,Ghana,Germany,0,1,2.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_D
+2010,Group D,2010-06-23,20:30,Mbombela Stadium,Nelspruit,Australia,Serbia,2,1,4.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_D
+2010,Group E,2010-06-14,13:30,Soccer City (FNB Stadium),Johannesburg,Netherlands,Denmark,2,0,2.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_E
+2010,Group E,2010-06-14,16:00,Free State Stadium,Bloemfontein,Japan,Cameroon,1,0,2.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_E
+2010,Group E,2010-06-19,13:30,Moses Mabhida Stadium,Durban,Netherlands,Japan,1,0,1.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_E
+2010,Group E,2010-06-19,20:30,Loftus Versfeld Stadium,Pretoria,Cameroon,Denmark,1,2,3.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_E
+2010,Group E,2010-06-24,20:30,Royal Bafokeng Stadium,Rustenburg,Denmark,Japan,1,3,3.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_E
+2010,Group E,2010-06-24,20:30,Cape Town Stadium (Green Point),Cape Town,Cameroon,Netherlands,1,2,4.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_E
+2010,Group F,2010-06-14,20:30,Cape Town Stadium (Green Point),Cape Town,Italy,Paraguay,1,1,1.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_F
+2010,Group F,2010-06-15,13:30,Royal Bafokeng Stadium,Rustenburg,New Zealand,Slovakia,1,1,2.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_F
+2010,Group F,2010-06-20,13:30,Free State Stadium,Bloemfontein,Slovakia,Paraguay,0,2,3.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_F
+2010,Group F,2010-06-20,16:00,Mbombela Stadium,Nelspruit,Italy,New Zealand,1,1,3.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_F
+2010,Group F,2010-06-24,16:00,Ellis Park Stadium,Johannesburg,Slovakia,Italy,3,2,6.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_F
+2010,Group F,2010-06-24,16:00,Peter Mokaba Stadium,Polokwane,Paraguay,New Zealand,0,0,2.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_F
+2010,Group G,2010-06-15,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Ivory Coast,Portugal,0,0,3.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_G
+2010,Group G,2010-06-15,20:30,Ellis Park Stadium,Johannesburg,Brazil,North Korea,2,1,1.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_G
+2010,Group G,2010-06-20,20:30,Soccer City (FNB Stadium),Johannesburg,Brazil,Ivory Coast,3,1,5.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_G
+2010,Group G,2010-06-21,13:30,Cape Town Stadium (Green Point),Cape Town,Portugal,North Korea,7,0,6.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_G
+2010,Group G,2010-06-25,16:00,Moses Mabhida Stadium,Durban,Portugal,Brazil,0,0,7.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_G
+2010,Group G,2010-06-25,16:00,Mbombela Stadium,Nelspruit,North Korea,Ivory Coast,0,3,0.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_G
+2010,Group H,2010-06-16,13:30,Mbombela Stadium,Nelspruit,Honduras,Chile,0,1,3.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_H
+2010,Group H,2010-06-16,16:00,Moses Mabhida Stadium,Durban,Spain,Switzerland,0,1,4.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_H
+2010,Group H,2010-06-21,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Chile,Switzerland,1,0,10.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_H
+2010,Group H,2010-06-21,20:30,Ellis Park Stadium,Johannesburg,Spain,Honduras,2,0,2.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_H
+2010,Group H,2010-06-25,20:30,Loftus Versfeld Stadium,Pretoria,Chile,Spain,1,2,4.0,1.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_H
+2010,Group H,2010-06-25,20:30,Free State Stadium,Bloemfontein,Switzerland,Honduras,0,0,5.0,0.0,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_Group_H
+2010,Round of 16,2010-06-26,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Uruguay,South Korea,2,1,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Round of 16,2010-06-26,20:30,Royal Bafokeng Stadium,Rustenburg,United States,Ghana,1,2,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Round of 16,2010-06-27,16:00,Free State Stadium,Bloemfontein,Germany,England,4,1,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Round of 16,2010-06-27,20:30,Soccer City (FNB Stadium),Johannesburg,Argentina,Mexico,3,1,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Round of 16,2010-06-28,16:00,Moses Mabhida Stadium,Durban,Netherlands,Slovakia,2,1,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Round of 16,2010-06-28,20:30,Ellis Park Stadium,Johannesburg,Brazil,Chile,3,0,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Round of 16,2010-06-29,16:00,Loftus Versfeld Stadium,Pretoria,Paraguay,Japan,0,0,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Round of 16,2010-06-29,20:30,Cape Town Stadium (Green Point),Cape Town,Spain,Portugal,1,0,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Quarter-final,2010-07-02,16:00,Nelson Mandela Bay Stadium,Port Elizabeth,Netherlands,Brazil,2,1,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Quarter-final,2010-07-02,20:30,Soccer City (FNB Stadium),Johannesburg,Uruguay,Ghana,1,1,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Quarter-final,2010-07-03,16:00,Cape Town Stadium (Green Point),Cape Town,Argentina,Germany,0,4,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Quarter-final,2010-07-03,20:30,Ellis Park Stadium,Johannesburg,Paraguay,Spain,0,1,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Semi-final,2010-07-06,20:30,Cape Town Stadium (Green Point),Cape Town,Uruguay,Netherlands,2,3,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Semi-final,2010-07-07,20:30,Moses Mabhida Stadium,Durban,Germany,Spain,0,1,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Third place play-off,2010-07-10,20:30,Nelson Mandela Bay Stadium,Port Elizabeth,Uruguay,Germany,2,3,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_knockout_stage
+2010,Final,2010-07-11,20:30,Soccer City (FNB Stadium),Johannesburg,Netherlands,Spain,0,1,,,https://en.wikipedia.org/wiki/2010_FIFA_World_Cup_final

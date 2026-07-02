@@ -1,0 +1,53 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,red_cards,yellow_cards,source_url
+1986,Group A,1986-05-31,12:00,Estadio Azteca,Mexico City,Bulgaria,Italy,1,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_A
+1986,Group A,1986-06-02,12:00,Estadio Olímpico Universitario,Mexico City,Argentina,South Korea,3,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_A
+1986,Group A,1986-06-05,12:00,Estadio Cuauhtémoc,Puebla,Italy,Argentina,1,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_A
+1986,Group A,1986-06-05,16:00,Estadio Olímpico Universitario,Mexico City,South Korea,Bulgaria,1,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_A
+1986,Group A,1986-06-10,12:00,Estadio Cuauhtémoc,Puebla,South Korea,Italy,2,3,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_A
+1986,Group A,1986-06-10,12:00,Estadio Olímpico Universitario,Mexico City,Argentina,Bulgaria,2,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_A
+1986,Group B,1986-06-03,12:00,Estadio Azteca,Mexico City,Belgium,Mexico,1,2,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_B
+1986,Group B,1986-06-04,12:00,Estadio Nemesio Díez (Estadio Toluca 70–86),Toluca,Paraguay,Iraq,1,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_B
+1986,Group B,1986-06-07,12:00,Estadio Azteca,Mexico City,Mexico,Paraguay,1,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_B
+1986,Group B,1986-06-08,12:00,Estadio Nemesio Díez (Estadio Toluca 70–86),Toluca,Iraq,Belgium,1,2,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_B
+1986,Group B,1986-06-11,12:00,Estadio Nemesio Díez (Estadio Toluca 70–86),Toluca,Paraguay,Belgium,2,2,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_B
+1986,Group B,1986-06-11,12:00,Estadio Azteca,Mexico City,Iraq,Mexico,0,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_B
+1986,Group C,1986-06-01,16:00,Estadio Nou Camp (Estadio León),León,Canada,France,0,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_C
+1986,Group C,1986-06-02,12:00,Estadio Sergio León Chávez,Irapuato,Soviet Union,Hungary,6,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_C
+1986,Group C,1986-06-05,12:00,Estadio Nou Camp (Estadio León),León,France,Soviet Union,1,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_C
+1986,Group C,1986-06-06,12:00,Estadio Sergio León Chávez,Irapuato,Hungary,Canada,2,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_C
+1986,Group C,1986-06-09,12:00,Estadio Nou Camp (Estadio León),León,Hungary,France,0,3,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_C
+1986,Group C,1986-06-09,12:00,Estadio Sergio León Chávez,Irapuato,Soviet Union,Canada,2,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_C
+1986,Group D,1986-06-01,12:00,Estadio Jalisco,Guadalajara,Spain,Brazil,0,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_D
+1986,Group D,1986-06-03,12:00,Estadio Tres de Marzo,Zapopan,Algeria,Northern Ireland,1,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_D
+1986,Group D,1986-06-06,12:00,Estadio Jalisco,Guadalajara,Brazil,Algeria,1,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_D
+1986,Group D,1986-06-07,12:00,Estadio Tres de Marzo,Zapopan,Northern Ireland,Spain,1,2,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_D
+1986,Group D,1986-06-12,12:00,Estadio Jalisco,Guadalajara,Northern Ireland,Brazil,0,3,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_D
+1986,Group D,1986-06-12,12:00,Estadio Tecnológico,Monterrey,Algeria,Spain,0,3,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_D
+1986,Group E,1986-06-04,12:00,Estadio La Corregidora,Querétaro,Uruguay,West Germany,1,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_E
+1986,Group E,1986-06-04,16:00,Estadio Neza 86,Nezahualcóyotl,Scotland,Denmark,0,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_E
+1986,Group E,1986-06-08,12:00,Estadio La Corregidora,Querétaro,West Germany,Scotland,2,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_E
+1986,Group E,1986-06-08,16:00,Estadio Neza 86,Nezahualcóyotl,Denmark,Uruguay,6,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_E
+1986,Group E,1986-06-13,12:00,Estadio La Corregidora,Querétaro,Denmark,West Germany,2,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_E
+1986,Group E,1986-06-13,12:00,Estadio Neza 86,Nezahualcóyotl,Scotland,Uruguay,0,0,1.0,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_E
+1986,Group F,1986-06-02,16:00,Estadio Universitario,San Nicolás de los Garza (Monterrey),Morocco,Poland,0,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_F
+1986,Group F,1986-06-03,16:00,Estadio Tecnológico,Monterrey,Portugal,England,1,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_F
+1986,Group F,1986-06-06,16:00,Estadio Tecnológico,Monterrey,England,Morocco,0,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_F
+1986,Group F,1986-06-07,16:00,Estadio Universitario,San Nicolás de los Garza (Monterrey),Poland,Portugal,1,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_F
+1986,Group F,1986-06-11,16:00,Estadio Universitario,San Nicolás de los Garza (Monterrey),England,Poland,3,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_F
+1986,Group F,1986-06-11,16:00,Estadio Tres de Marzo,Zapopan,Portugal,Morocco,1,3,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_Group_F
+1986,Round of 16,1986-06-15,12:00,Estadio Azteca,Mexico City,Mexico,Bulgaria,2,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Round of 16 (a.e.t.; Belgium won 4–3 after extra time),1986-06-15,16:00,Estadio Nou Camp (Estadio León),León,Soviet Union,Belgium,3,4,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Round of 16,1986-06-16,12:00,Estadio Jalisco,Guadalajara,Brazil,Poland,4,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Round of 16,1986-06-16,16:00,Estadio Cuauhtémoc,Puebla,Argentina,Uruguay,1,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Round of 16,1986-06-17,12:00,Estadio Olímpico Universitario,Mexico City,Italy,France,0,2,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Round of 16,1986-06-17,16:00,Estadio Universitario,San Nicolás de los Garza (Monterrey),Morocco,West Germany,0,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Round of 16,1986-06-18,12:00,Estadio Azteca,Mexico City,England,Paraguay,3,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Round of 16,1986-06-18,16:00,Estadio La Corregidora,Querétaro,Denmark,Spain,1,5,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Quarter-final (a.e.t.; France won 4–3 on penalties),1986-06-21,12:00,Estadio Jalisco,Guadalajara,Brazil,France,1,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Quarter-final (a.e.t.; West Germany won 4–1 on penalties),1986-06-21,16:00,Estadio Universitario,San Nicolás de los Garza (Monterrey),West Germany,Mexico,0,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Quarter-final,1986-06-22,12:00,Estadio Azteca,Mexico City,Argentina,England,2,1,,,https://en.wikipedia.org/wiki/Argentina_v_England_(1986_FIFA_World_Cup)
+1986,Quarter-final (a.e.t.; Belgium won 5–4 on penalties),1986-06-22,16:00,Estadio Cuauhtémoc,Puebla,Spain,Belgium,1,1,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Semi-final,1986-06-25,12:00,Estadio Jalisco,Guadalajara,West Germany,France,2,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Semi-final,1986-06-25,16:00,Estadio Azteca,Mexico City,Argentina,Belgium,2,0,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Third place play-off (a.e.t.),1986-06-28,12:00,Estadio Cuauhtémoc,Puebla,France,Belgium,4,2,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_knockout_stage
+1986,Final,1986-06-29,12:00,Estadio Azteca,Mexico City,Argentina,West Germany,3,2,,,https://en.wikipedia.org/wiki/1986_FIFA_World_Cup_final

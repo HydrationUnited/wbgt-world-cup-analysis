@@ -1,0 +1,13 @@
+year,host,stadium,city,country,lat,lon,elevation_m,capacity,timezone,utc_offset_during_cup,still_exists,source_url
+1990,Italy,San Siro (Stadio Giuseppe Meazza),Milan,Italy,45.47806,9.12389,118,74559,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/San_Siro
+1990,Italy,Stadio Olimpico,Rome,Italy,41.93389,12.45472,21,73603,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/Stadio_Olimpico
+1990,Italy,Stadio delle Alpi,Turin,Italy,45.10956,7.64126,270,62628,Europe/Rome,UTC+2,False,https://en.wikipedia.org/wiki/Stadio_delle_Alpi
+1990,Italy,Stadio San Paolo (now Stadio Diego Armando Maradona),Naples,Italy,40.828,14.193,12,59978,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/Stadio_Diego_Armando_Maradona
+1990,Italy,Stadio San Nicola,Bari,Italy,41.08474,16.84007,75,51426,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/Stadio_San_Nicola
+1990,Italy,Stadio Comunale (now Stadio Artemio Franchi),Florence,Italy,43.78083,11.28222,45,38971,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/Stadio_Artemio_Franchi
+1990,Italy,Stadio Marc'Antonio Bentegodi,Verona,Italy,45.43528,10.96861,57,35950,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/Stadio_Marcantonio_Bentegodi
+1990,Italy,Stadio Friuli (now Bluenergy Stadium),Udine,Italy,46.0816,13.2001,110,35713,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/Stadio_Friuli
+1990,Italy,Stadio Sant'Elia,Cagliari,Italy,39.19939,9.13495,5,35238,Europe/Rome,UTC+2,False,https://en.wikipedia.org/wiki/Stadio_Sant%27Elia
+1990,Italy,Stadio Renato Dall'Ara,Bologna,Italy,44.49222,11.30972,65,34520,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/Stadio_Renato_Dall%27Ara
+1990,Italy,Stadio La Favorita (now Stadio Renzo Barbera),Palermo,Italy,38.15277,13.34228,25,33288,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/Stadio_Renzo_Barbera
+1990,Italy,Stadio Luigi Ferraris,Genoa,Italy,44.41639,8.9525,20,31823,Europe/Rome,UTC+2,True,https://en.wikipedia.org/wiki/Stadio_Luigi_Ferraris

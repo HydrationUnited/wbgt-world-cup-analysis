@@ -1,0 +1,21 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+2002,South Korea and Japan (co-hosts),Seoul World Cup Stadium,Seoul,South Korea,37.568222,126.897361,Asia/Seoul,UTC+9,12,63961,True,https://en.wikipedia.org/wiki/Seoul_World_Cup_Stadium
+2002,South Korea and Japan (co-hosts),Busan Asiad Main Stadium,Busan,South Korea,35.19,129.058222,Asia/Seoul,UTC+9,20,55982,True,https://en.wikipedia.org/wiki/Busan_Asiad_Main_Stadium
+2002,South Korea and Japan (co-hosts),Daegu World Cup Stadium,Daegu,South Korea,35.8245,128.6875,Asia/Seoul,UTC+9,40,68014,True,https://en.wikipedia.org/wiki/Daegu_World_Cup_Stadium
+2002,South Korea and Japan (co-hosts),Incheon Munhak Stadium,Incheon,South Korea,37.435139,126.690806,Asia/Seoul,UTC+9,15,52179,True,https://en.wikipedia.org/wiki/Incheon_Munhak_Stadium
+2002,South Korea and Japan (co-hosts),Ulsan Munsu Football Stadium,Ulsan,South Korea,35.53528,129.25944,Asia/Seoul,UTC+9,50,43550,True,https://en.wikipedia.org/wiki/Ulsan_Munsu_Football_Stadium
+2002,South Korea and Japan (co-hosts),Suwon World Cup Stadium,Suwon,South Korea,37.286278,127.036889,Asia/Seoul,UTC+9,35,43188,True,https://en.wikipedia.org/wiki/Suwon_World_Cup_Stadium
+2002,South Korea and Japan (co-hosts),Gwangju World Cup Stadium,Gwangju,South Korea,35.133667,126.874861,Asia/Seoul,UTC+9,28,42880,True,https://en.wikipedia.org/wiki/Gwangju_World_Cup_Stadium
+2002,South Korea and Japan (co-hosts),Jeonju World Cup Stadium,Jeonju,South Korea,35.868111,127.064444,Asia/Seoul,UTC+9,25,42391,True,https://en.wikipedia.org/wiki/Jeonju_World_Cup_Stadium
+2002,South Korea and Japan (co-hosts),Jeju World Cup Stadium,Seogwipo,South Korea,33.246139,126.509206,Asia/Seoul,UTC+9,25,42256,True,https://en.wikipedia.org/wiki/Jeju_World_Cup_Stadium
+2002,South Korea and Japan (co-hosts),Daejeon World Cup Stadium,Daejeon,South Korea,36.365139,127.325167,Asia/Seoul,UTC+9,55,40407,True,https://en.wikipedia.org/wiki/Daejeon_World_Cup_Stadium
+2002,South Korea and Japan (co-hosts),International Stadium Yokohama,Yokohama,Japan,35.51004,139.60625,Asia/Tokyo,UTC+9,5,72327,True,https://en.wikipedia.org/wiki/Nissan_Stadium_(Yokohama)
+2002,South Korea and Japan (co-hosts),Saitama Stadium 2002,Saitama,Japan,35.9031,139.7175,Asia/Tokyo,UTC+9,5,63000,True,https://en.wikipedia.org/wiki/Saitama_Stadium_2002
+2002,South Korea and Japan (co-hosts),Shizuoka Stadium ECOPA,Fukuroi,Japan,34.74333,137.97056,Asia/Tokyo,UTC+9,70,50600,True,https://en.wikipedia.org/wiki/Shizuoka_Stadium
+2002,South Korea and Japan (co-hosts),Nagai Stadium,Osaka,Japan,34.614119,135.51845,Asia/Tokyo,UTC+9,10,50000,True,https://en.wikipedia.org/wiki/Nagai_Stadium
+2002,South Korea and Japan (co-hosts),Miyagi Stadium,Rifu,Japan,38.3354,140.9504,Asia/Tokyo,UTC+9,70,49000,True,https://en.wikipedia.org/wiki/Miyagi_Stadium
+2002,South Korea and Japan (co-hosts),Ōita Stadium (Big Eye),Ōita,Japan,33.20056,131.6575,Asia/Tokyo,UTC+9,35,43000,True,https://en.wikipedia.org/wiki/Oita_Stadium
+2002,South Korea and Japan (co-hosts),Niigata Stadium (Big Swan),Niigata,Japan,37.8825,139.05917,Asia/Tokyo,UTC+9,3,42300,True,https://en.wikipedia.org/wiki/Denka_Big_Swan_Stadium
+2002,South Korea and Japan (co-hosts),Kashima Soccer Stadium,Kashima,Japan,35.9917,140.6405,Asia/Tokyo,UTC+9,5,42000,True,https://en.wikipedia.org/wiki/Kashima_Soccer_Stadium
+2002,South Korea and Japan (co-hosts),Kobe Wing Stadium,Kobe,Japan,34.65667,135.16889,Asia/Tokyo,UTC+9,5,42000,True,https://en.wikipedia.org/wiki/Noevir_Stadium_Kobe
+2002,South Korea and Japan (co-hosts),Sapporo Dome,Sapporo,Japan,43.0152,141.4098,Asia/Tokyo,UTC+9,30,42000,True,https://en.wikipedia.org/wiki/Sapporo_Dome

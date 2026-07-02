@@ -1,0 +1,13 @@
+year,host,stadium,city,country,lat,lon,utc_offset_during_cup,timezone,elevation_m,capacity,still_exists,source_url
+1986,Mexico,Estadio Azteca,Mexico City,Mexico,19.30306,-99.15056,UTC-6,America/Mexico_City,2200,114600,True,https://en.wikipedia.org/wiki/Estadio_Azteca
+1986,Mexico,Estadio Olímpico Universitario,Mexico City,Mexico,19.33194,-99.19222,UTC-6,America/Mexico_City,2292,72212,True,https://en.wikipedia.org/wiki/Estadio_Ol%C3%ADmpico_Universitario
+1986,Mexico,Estadio Jalisco,Guadalajara,Mexico,20.705,-103.32806,UTC-6,America/Mexico_City,1566,66193,True,https://en.wikipedia.org/wiki/Estadio_Jalisco
+1986,Mexico,Estadio Cuauhtémoc,Puebla,Mexico,19.07806,-98.16444,UTC-6,America/Mexico_City,2135,46416,True,https://en.wikipedia.org/wiki/Estadio_Cuauht%C3%A9moc
+1986,Mexico,Estadio Universitario,San Nicolás de los Garza (Monterrey),Mexico,25.723,-100.312,UTC-6,America/Monterrey,500,43780,True,https://en.wikipedia.org/wiki/Estadio_Universitario_(UANL)
+1986,Mexico,Estadio La Corregidora,Querétaro,Mexico,20.57778,-100.36639,UTC-6,America/Mexico_City,1820,38576,True,https://en.wikipedia.org/wiki/Estadio_Corregidora
+1986,Mexico,Estadio Neza 86,Nezahualcóyotl,Mexico,19.40583,-98.98694,UTC-6,America/Mexico_City,2220,34536,True,https://en.wikipedia.org/wiki/Estadio_Neza_86
+1986,Mexico,Estadio Tecnológico,Monterrey,Mexico,25.6522,-100.2864,UTC-6,America/Monterrey,544,33805,False,https://en.wikipedia.org/wiki/Estadio_Tecnol%C3%B3gico
+1986,Mexico,Estadio Nemesio Díez (Estadio Toluca 70–86),Toluca,Mexico,19.28722,-99.66667,UTC-6,America/Mexico_City,2660,32612,True,https://en.wikipedia.org/wiki/Estadio_Nemesio_D%C3%ADez
+1986,Mexico,Estadio Sergio León Chávez,Irapuato,Mexico,20.6845,-101.3563,UTC-6,America/Mexico_City,1725,31336,True,https://en.wikipedia.org/wiki/Estadio_Sergio_Le%C3%B3n_Ch%C3%A1vez
+1986,Mexico,Estadio Nou Camp (Estadio León),León,Mexico,21.11556,-101.65778,UTC-6,America/Mexico_City,1815,30531,True,https://en.wikipedia.org/wiki/Estadio_Le%C3%B3n
+1986,Mexico,Estadio Tres de Marzo,Zapopan,Mexico,20.69389,-103.41611,UTC-6,America/Mexico_City,1560,30015,True,https://en.wikipedia.org/wiki/Estadio_Tres_de_Marzo

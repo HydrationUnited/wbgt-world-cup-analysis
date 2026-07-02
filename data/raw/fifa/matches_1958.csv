@@ -1,0 +1,36 @@
+year,round,date_local,kickoff_local,venue_stadium,venue_city,home_team,away_team,home_score,away_score,yellow_cards,red_cards,source_url
+1958,Group 1,1958-06-08,19:00,Malmö Stadion,Malmö,Argentina,West Germany,1,3,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_1
+1958,Group 1,1958-06-08,19:00,Örjans Vall,Halmstad,Northern Ireland,Czechoslovakia,1,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_1
+1958,Group 1,1958-06-11,19:00,Olympia,Helsingborg,West Germany,Czechoslovakia,2,2,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_1
+1958,Group 1,1958-06-11,19:00,Örjans Vall,Halmstad,Argentina,Northern Ireland,3,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_1
+1958,Group 1,1958-06-15,19:00,Malmö Stadion,Malmö,West Germany,Northern Ireland,2,2,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_1
+1958,Group 1,1958-06-15,19:00,Olympia,Helsingborg,Czechoslovakia,Argentina,6,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_1
+1958,Group 1 play-off,1958-06-17,19:00,Malmö Stadion,Malmö,Northern Ireland,Czechoslovakia,2,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_1
+1958,Group 2,1958-06-08,19:00,Idrottsparken,Norrköping,France,Paraguay,7,3,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_2
+1958,Group 2,1958-06-08,19:00,Arosvallen,Västerås,Yugoslavia,Scotland,1,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_2
+1958,Group 2,1958-06-11,19:00,Arosvallen,Västerås,Yugoslavia,France,3,2,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_2
+1958,Group 2,1958-06-11,19:00,Idrottsparken,Norrköping,Paraguay,Scotland,3,2,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_2
+1958,Group 2,1958-06-15,19:00,Eyravallen,Örebro,France,Scotland,2,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_2
+1958,Group 2,1958-06-15,19:00,Tunavallen,Eskilstuna,Paraguay,Yugoslavia,3,3,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_2
+1958,Group 3,1958-06-08,14:00,Råsunda Stadium,Solna,Sweden,Mexico,3,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_3
+1958,Group 3,1958-06-08,19:00,Jernvallen,Sandviken,Hungary,Wales,1,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_3
+1958,Group 3,1958-06-11,19:00,Råsunda Stadium,Solna,Mexico,Wales,1,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_3
+1958,Group 3,1958-06-12,19:00,Råsunda Stadium,Solna,Sweden,Hungary,2,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_3
+1958,Group 3,1958-06-15,14:00,Råsunda Stadium,Solna,Sweden,Wales,0,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_3
+1958,Group 3,1958-06-15,19:00,Jernvallen,Sandviken,Hungary,Mexico,4,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_3
+1958,Group 3 play-off,1958-06-17,19:00,Råsunda Stadium,Solna,Wales,Hungary,2,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_3
+1958,Group 4,1958-06-08,19:00,Rimnersvallen,Uddevalla,Brazil,Austria,3,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_4
+1958,Group 4,1958-06-08,19:00,Ullevi,Gothenburg,Soviet Union,England,2,2,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_4
+1958,Group 4,1958-06-11,19:00,Ullevi,Gothenburg,Brazil,England,0,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_4
+1958,Group 4,1958-06-11,19:00,Ryavallen,Borås,Soviet Union,Austria,2,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_4
+1958,Group 4,1958-06-15,19:00,Ryavallen,Borås,England,Austria,2,2,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_4
+1958,Group 4,1958-06-15,19:00,Ullevi,Gothenburg,Brazil,Soviet Union,2,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_4
+1958,Group 4 play-off,1958-06-17,19:00,Ullevi,Gothenburg,Soviet Union,England,1,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_Group_4
+1958,Quarter-final,1958-06-19,19:00,Ullevi,Gothenburg,Brazil,Wales,1,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_knockout_stage
+1958,Quarter-final,1958-06-19,19:00,Idrottsparken,Norrköping,France,Northern Ireland,4,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_knockout_stage
+1958,Quarter-final,1958-06-19,19:00,Råsunda Stadium,Solna,Sweden,Soviet Union,2,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_knockout_stage
+1958,Quarter-final,1958-06-19,19:00,Malmö Stadion,Malmö,West Germany,Yugoslavia,1,0,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_knockout_stage
+1958,Semi-final,1958-06-24,19:00,Råsunda Stadium,Solna,Brazil,France,5,2,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_knockout_stage
+1958,Semi-final,1958-06-24,19:00,Ullevi,Gothenburg,Sweden,West Germany,3,1,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_knockout_stage
+1958,Third place play-off,1958-06-28,17:00,Ullevi,Gothenburg,France,West Germany,6,3,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_knockout_stage
+1958,Final,1958-06-29,15:00,Råsunda Stadium,Solna,Brazil,Sweden,5,2,,,https://en.wikipedia.org/wiki/1958_FIFA_World_Cup_knockout_stage

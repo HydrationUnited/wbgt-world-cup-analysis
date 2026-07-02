@@ -1,0 +1,7 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+1950,Brazil,Estádio do Maracanã,Rio de Janeiro,Brazil,-22.912167,-43.230164,America/Sao_Paulo,UTC-3,10,200000,True,https://en.wikipedia.org/wiki/Maracan%C3%A3_Stadium
+1950,Brazil,Estádio do Pacaembu,São Paulo,Brazil,-23.548639,-46.665111,America/Sao_Paulo,UTC-3,756,60000,True,https://en.wikipedia.org/wiki/Pacaembu_Stadium
+1950,Brazil,Estádio Independência,Belo Horizonte,Brazil,-19.90833,-43.91778,America/Sao_Paulo,UTC-3,838,30000,True,https://en.wikipedia.org/wiki/Arena_Independ%C3%AAncia
+1950,Brazil,Estádio dos Eucaliptos,Porto Alegre,Brazil,-30.06167,-51.22722,America/Sao_Paulo,UTC-3,9,20000,False,https://en.wikipedia.org/wiki/Est%C3%A1dio_dos_Eucaliptos
+1950,Brazil,Estádio Durival de Britto (Vila Capanema),Curitiba,Brazil,-25.43944,-49.25583,America/Sao_Paulo,UTC-3,888,10000,True,https://en.wikipedia.org/wiki/Est%C3%A1dio_Durival_de_Britto
+1950,Brazil,Estádio Ilha do Retiro,Recife,Brazil,-8.06278,-34.90278,America/Recife,UTC-3,8,20000,True,https://en.wikipedia.org/wiki/Est%C3%A1dio_Ilha_do_Retiro

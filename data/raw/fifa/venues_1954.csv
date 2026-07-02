@@ -1,0 +1,7 @@
+year,host,stadium,city,country,lat,lon,timezone,utc_offset_during_cup,elevation_m,capacity,still_exists,source_url
+1954,Switzerland,Wankdorf Stadium,Bern,Switzerland,46.96278,7.465,Europe/Zurich,UTC+1,558,64600,False,https://en.wikipedia.org/wiki/Wankdorf_Stadium
+1954,Switzerland,St. Jakob Stadium,Basel,Switzerland,47.54139,7.62,Europe/Zurich,UTC+1,256,54800,False,https://en.wikipedia.org/wiki/St._Jakob_Stadium
+1954,Switzerland,Stade Olympique de la Pontaise,Lausanne,Switzerland,46.53333,6.62417,Europe/Zurich,UTC+1,598,50300,True,https://en.wikipedia.org/wiki/Stade_olympique_de_la_Pontaise
+1954,Switzerland,Stade des Charmilles,Geneva,Switzerland,46.2091,6.1182,Europe/Zurich,UTC+1,415,35997,False,https://en.wikipedia.org/wiki/Stade_des_Charmilles
+1954,Switzerland,Stadio di Cornaredo,Lugano,Switzerland,46.02361,8.96167,Europe/Zurich,UTC+1,295,35800,True,https://en.wikipedia.org/wiki/Stadio_di_Cornaredo
+1954,Switzerland,Hardturm,Zurich,Switzerland,47.39306,8.50472,Europe/Zurich,UTC+1,400,34800,False,https://en.wikipedia.org/wiki/Hardturm
