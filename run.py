@@ -7,7 +7,8 @@ turns those series into per-stadium percentiles and a nearest-hour WBGT for
 every match. NOTE: each forecast-radiation file is loaded whole (~2 GB peak),
 so run this on Casper / a compute node, not a login node.
 """
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ProcessPoolExecutor
+from functools import partial
 from pathlib import Path
 
 import numpy as np
@@ -29,6 +30,17 @@ MONTHS = (5, 6, 7, 11, 12)
 # =============================================================================
 
 
+def _extract_month(cells, yyyymm):
+    """Read one ERA5 month at the cells (process-pool worker: HDF5/netCDF is not thread-safe)."""
+    try:
+        ds = era5.extract_month(ERA5_ROOT, yyyymm, cells)
+    except FileNotFoundError as e:
+        print(f"step1: {yyyymm} not in archive, skipping ({e})")
+        return None
+    print(f"step1: extracted {yyyymm}")
+    return ds
+
+
 def step1_stadium_series():
     """Extract ERA5 + compute hourly WBGT per stadium grid cell; write intermediate CSVs."""
     matches = stats.load_matches(MATCHES_CSV)
@@ -45,17 +57,11 @@ def step1_stadium_series():
     cells = todo[["lat", "lon"]]
     print(f"step1: extracting {len(cells)} stadiums")
 
-    def extract(yyyymm):                                    # I/O-bound: reads whole ERA5 files
-        try:
-            ds = era5.extract_month(ERA5_ROOT, yyyymm, cells)
-        except FileNotFoundError as e:
-            print(f"step1: {yyyymm} not in archive, skipping ({e})")
-            return None
-        print(f"step1: extracted {yyyymm}")
-        return ds
-
-    with ThreadPoolExecutor(max_workers=16) as pool:        # threads: work drops the GIL, no pickling
-        monthly = [ds for ds in pool.map(extract, era5.months_in_scope(YEARS, MONTHS))
+    # Processes, not threads: HDF5/netCDF is not thread-safe (concurrent reads segfault).
+    # max_workers is also a memory dial -- each worker peaks ~2 GB on a forecast file.
+    with ProcessPoolExecutor(max_workers=4) as pool:
+        monthly = [ds for ds in pool.map(partial(_extract_month, cells),
+                                         era5.months_in_scope(YEARS, MONTHS))
                    if ds is not None]
     if not monthly:
         raise RuntimeError("step1: no ERA5 months could be extracted")
