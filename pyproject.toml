@@ -13,8 +13,13 @@ dependencies = [
     "xarray",
 ]
 
-[dependency-groups]
-dev = ["pytest", "ruff"]
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+    "sphinx",
+    "sphinx-autobuild",
+]
 
 [build-system]
 requires = ["hatchling"]

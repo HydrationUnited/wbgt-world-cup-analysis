@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Reproducing the Analysis Data &#8212; WBGT World Cup Analysis  documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=5ecbeea2" />
+    <link rel="stylesheet" type="text/css" href="_static/basic.css?v=b08954a9" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=27fed22d" />
+    <script src="_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="_static/doctools.js?v=fd6eb6e6"></script>
+    <script src="_static/sphinx_highlight.js?v=6ffebe34"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Development Guide" href="dev.html" />
+    <link rel="prev" title="WBGT World Cup Heat Analysis" href="index.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="reproducing-the-analysis-data">
+<h1>Reproducing the Analysis Data<a class="headerlink" href="#reproducing-the-analysis-data" title="Link to this heading">¶</a></h1>
+<p>The analysis has two inputs: the ERA5 reanalysis, which lives on NCAR Campaign (GDEX) storage
+and is <em>never downloaded</em>, and the World Cup match table, which is committed to this repository
+at:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">data</span><span class="o">/</span><span class="n">cleaned</span><span class="o">/</span><span class="n">world_cup_matches_1950</span><span class="o">-</span><span class="mf">2023.</span><span class="n">csv</span>
+</pre></div>
+</div>
+<p>Each stadium’s location was verified by hand for accuracy; stadium names, kickoff times, and
+match gender were pulled from <a class="reference external" href="https://fbref.com/en/">FBref</a>. Because ERA5 is read in place,
+step 1 of the workflow must run on a system with access to the GDEX archive.</p>
+<section id="install">
+<h2>Install<a class="headerlink" href="#install" title="Link to this heading">¶</a></h2>
+<p>Reproducing the full data set requires access to a Casper compute node. Clone the repository and
+install the package into a virtual environment:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/HydrationUnited/wbgt-world-cup-analysis.git
+<span class="nb">cd</span><span class="w"> </span>wbgt-world-cup-analysis
+pip<span class="w"> </span>install<span class="w"> </span>-e<span class="w"> </span>.
+</pre></div>
+</div>
+<p>On NSF NCAR systems (Casper / Derecho) load a Python 3.11 environment first:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>module<span class="w"> </span>load<span class="w"> </span>conda<span class="w"> </span><span class="o">&amp;&amp;</span><span class="w"> </span>conda<span class="w"> </span>activate<span class="w"> </span>npl
+pip<span class="w"> </span>install<span class="w"> </span>--user<span class="w"> </span>-e<span class="w"> </span>.
+</pre></div>
+</div>
+<p>Only Python 3.11 is committed to (see <code class="docutils literal notranslate"><span class="pre">.python-version</span></code>); newer versions may lag numba’s
+supported range.</p>
+</section>
+<section id="configure">
+<h2>Configure<a class="headerlink" href="#configure" title="Link to this heading">¶</a></h2>
+<p>All paths and parameters live in the <code class="docutils literal notranslate"><span class="pre">CONFIG</span></code> block at the top of <code class="docutils literal notranslate"><span class="pre">run.py</span></code>. Edit it before
+running:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">ERA5_ROOT</span>   <span class="o">=</span> <span class="s2">&quot;/glade/campaign/collections/gdex/data/d633000&quot;</span>  <span class="c1"># ERA5 archive root</span>
+<span class="n">MATCHES_CSV</span> <span class="o">=</span> <span class="s2">&quot;data/cleaned/world_cup_matches_1950-2023.csv&quot;</span>    <span class="c1"># committed match table</span>
+<span class="n">OUT_DIR</span>     <span class="o">=</span> <span class="s2">&quot;output&quot;</span>                                          <span class="c1"># all results land here</span>
+<span class="n">YEARS</span>       <span class="o">=</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1950</span><span class="p">,</span> <span class="mi">2024</span><span class="p">)</span>                                 <span class="c1"># inclusive of 1950–2023</span>
+<span class="n">MONTHS</span>      <span class="o">=</span> <span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">11</span><span class="p">,</span> <span class="mi">12</span><span class="p">)</span>                                 <span class="c1"># tournament months</span>
+</pre></div>
+</div>
+<p><code class="docutils literal notranslate"><span class="pre">YEARS</span></code> and <code class="docutils literal notranslate"><span class="pre">MONTHS</span></code> are applied as a Cartesian product to every stadium, and they define
+exactly the scope of the per-stadium climatological percentiles.</p>
+</section>
+<section id="run">
+<h2>Run<a class="headerlink" href="#run" title="Link to this heading">¶</a></h2>
+<p>Run the entry script from a compute node (a login node lacks the memory and each forecast-radiation
+file is decompressed whole, peaking near ~2 GB):</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>python<span class="w"> </span>run.py
+</pre></div>
+</div>
+<p>The workflow is linear and resumable:</p>
+<dl class="simple">
+<dt><strong>Step 1 - extract and compute.</strong></dt><dd><p>For each unique stadium grid cell, <code class="docutils literal notranslate"><span class="pre">run.py</span></code> reads the hourly ERA5 analysis variables and the
+de-accumulated forecast radiation, computes sunlit WBGT (see <a class="reference internal" href="index.html"><span class="doc">WBGT World Cup Heat Analysis</span></a>), and writes one
+intermediate hourly CSV per stadium to <code class="docutils literal notranslate"><span class="pre">output/stadium_wbgt/{key}.csv</span></code> with columns
+<code class="docutils literal notranslate"><span class="pre">stadium,</span> <span class="pre">city,</span> <span class="pre">time_utc,</span> <span class="pre">wbgt_c,</span> <span class="pre">grid_lat,</span> <span class="pre">grid_lon</span></code>. Months are extracted in parallel
+across a process pool (netCDF/HDF5 is not thread-safe). Stadiums whose CSV already exists are
+skipped, so an interrupted run can simply be restarted.</p>
+</dd>
+<dt><strong>Step 2 - statistics.</strong></dt><dd><p>From the intermediate series, <code class="docutils literal notranslate"><span class="pre">run.py</span></code> writes two result tables:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">output/results/stadium_percentiles.csv</span></code> - the 75th, 90th, and 95th WBGT percentiles per
+stadium, plus hour counts and the year range covered.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">output/results/match_wbgt.csv</span></code> - the WBGT at each match’s kickoff hour. The local kickoff
+is converted to UTC using the time zone derived from the stadium’s coordinates, then matched
+to the nearest hourly sample within a one-hour tolerance (matches outside that window, or at
+stadiums with no extracted series, are recorded as <code class="docutils literal notranslate"><span class="pre">NaN</span></code>).</p></li>
+</ul>
+</dd>
+</dl>
+<p>Nothing outside <code class="docutils literal notranslate"><span class="pre">output/</span></code> is written, and no ERA5 data leaves the archive.</p>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="Main">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">WBGT World Cup Analysis</a></h1>
+
+
+
+
+
+
+
+
+
+<search id="searchbox" style="display: none" role="search">
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script><h3>Navigation</h3>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Reproducing the Analysis Data</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#install">Install</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#configure">Configure</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#run">Run</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="dev.html">Development Guide</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="index.html" title="previous chapter">WBGT World Cup Heat Analysis</a></li>
+      <li>Next: <a href="dev.html" title="next chapter">Development Guide</a></li>
+  </ul></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;2026, Gavin D. Madakumbura, Sebastian Utama, Sam Frucht, Fletcher Hoz, Cameron Cummins.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 9.0.4</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 1.0.0</a>
+      
+      |
+      <a href="_sources/generate_data.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
